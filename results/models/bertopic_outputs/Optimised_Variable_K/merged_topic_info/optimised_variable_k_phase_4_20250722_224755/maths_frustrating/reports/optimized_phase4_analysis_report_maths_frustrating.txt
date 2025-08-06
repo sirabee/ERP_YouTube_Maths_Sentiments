@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths frustrating"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:25
+Query: maths frustrating
+Safe Query Name: maths_frustrating
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 149
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 149 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 39 comments): math, chinese, china, good, learn, easy, maths, mandarin
+  2. Topic  1 ( 30 comments): question, point, point inflection, inflection, just, solve, using, use
+  3. Topic  2 ( 29 comments): video, exam, paper, year, videos, maths, thank, questions
+  4. Topic  3 ( 27 comments): anil, interview, great, book, learning, thanks, matrix, machine
+  5. Topic  4 ( 24 comments): answer, 2k, 4k, 2p, sqrt, 4k 4k, 2k 2k, infinite
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_frustrating/
+- Data: data/data_with_topics_maths_frustrating.csv
+- Topic Info: data/topic_info_maths_frustrating.csv
+- Visualizations: visualizations/*_maths_frustrating.*
+
+This analysis provides optimized topic discovery for the search query "maths frustrating" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

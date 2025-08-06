@@ -1,0 +1,53 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "ratios lesson"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:18
+Query: ratios lesson
+Safe Query Name: ratios_lesson
+Clustering Method: K-means with K=8 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 241
+- Optimal K Value: 8
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 8 (K-means K=8)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 241 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 57 comments): thanks, thank, helpful, really, videos, mr, god, helped
+  2. Topic  1 ( 43 comments): math, teacher, math teacher, mr, thank, thanks, grade, test
+  3. Topic  2 ( 31 comments): ratios, 25, ratio, 18, proportion, 25 25, apple, visitors
+  4. Topic  3 ( 30 comments): understand, explanation, thanks, understand thanks, don understand, mr understand, understand explanation, understand didn
+  5. Topic  4 ( 28 comments): question, ah, la, pls, da, exam, direct, mam
+  6. Topic  5 ( 20 comments): golden, golden ratio, ratio, jojo, video, fibonacci, reference, divine
+  7. Topic  6 ( 19 comments): answer, 12, 18 12, 18, squared, closer, close, digit
+  8. Topic  7 ( 13 comments): method, lcm, method easy, easy, factor, blue, lcm method, product
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=8, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=8
+This configuration uses query-specific K=8 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_ratios_lesson/
+- Data: data/data_with_topics_ratios_lesson.csv
+- Topic Info: data/topic_info_ratios_lesson.csv
+- Visualizations: visualizations/*_ratios_lesson.*
+
+This analysis provides optimized topic discovery for the search query "ratios lesson" 
+using K-means clustering with K=8 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

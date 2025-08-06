@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'maths tips' ---
+
+Generated on: 2025-07-20 23:03:24
+Total documents analyzed: 749
+Topics discovered: 2
+Noise (unassigned documents): 648 (86.52%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_thanks_math_video_thank (648 comments)
+  Representative Comments:
+    - Ippa na try panna pora pannitu vandhu result solra akka romba thanks for this video❤😊...
+    - Thank you so much akka before this video I hate math but after this video math is my favorite subject👍👍...
+    - Thank you so much for this video Sis Z. Your videos are very informative and useful however please make a playlist per math topic make navigating your...
+
+Topic 1: 1_answer_root_correct_square (101 comments)
+  Representative Comments:
+    - 18×17 Answer 306 Alle...
+    - 955 Answer ❤...
+    - 955 this is answer 😊😊😮😮...

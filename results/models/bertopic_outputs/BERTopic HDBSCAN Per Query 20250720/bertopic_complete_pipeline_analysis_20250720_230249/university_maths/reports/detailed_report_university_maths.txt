@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'university maths' ---
+
+Generated on: 2025-07-20 23:03:40
+Total documents analyzed: 573
+Topics discovered: 2
+Noise (unassigned documents): 557 (97.21%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_maths_just_video (557 comments)
+  Representative Comments:
+    - Yeah it was similar for I had a weird transition phase in highschool. Just got overwhelmed that first year. I didn't adapt well and sort of made thing...
+    - I just got into 10th grade and last year in 9th grade my performance went really down from a straight A student B2 and it’s just painful accept that a...
+    - Gosh, I relate so heavily your story. I've always fallen behind in Maths because I grew up undiagnosed ADHD and Autistic. It makes so, so upset that M...
+
+Topic 1: 1_100_10_300_20 (16 comments)
+  Representative Comments:
+    - My solution: Hundreds: only value that has a 1 in it in hundreds column is 100, 100 however must have 100 varietions of it from 1 0 - 99, so there is ...
+    - Not really being a math person: There’s 10 sets of ones per 100 numbers, plus 10 ones in tens place per 100 numbers. That’s 100+10*10=200. Then just a...
+    - My approach was: for 1-9, it appears 1x for 10-99, it appears 10x in tens position, 1x9 in one's position in total: 20x from 1-99 for 100-999, it appe...

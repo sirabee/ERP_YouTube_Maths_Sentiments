@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'decimals help' ---
+
+Generated on: 2025-07-20 23:02:57
+Total documents analyzed: 1246
+Topics discovered: 2
+Noise (unassigned documents): 1114 (89.41%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_thank_math_thanks_mr (1114 comments)
+  Representative Comments:
+    - You are by far most best math teacher I have ever had thank you so much...
+    - Tbh he is my favorite math teacher thanks MR.J...
+    - Thank you, Mr. J, for helping others and you are best math teacher🤗🙋:)...
+
+Topic 1: 1_decimals_100_thank_video (132 comments)
+  Representative Comments:
+    - Thanks for help, your teachings are very good and i understand all about subtracting decimals. Thank you Mr. J...
+    - thank you very much now i know how do decimals!...
+    - I never realized it was same with multiplying decimals and decimals thank you so much!...

@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'girls and math' ---
+
+Generated on: 2025-07-20 23:04:18
+Total documents analyzed: 222
+Topics discovered: 2
+Noise (unassigned documents): 195 (87.84%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_just_don_need_thing (195 comments)
+  Representative Comments:
+    - most painful thing about use of song "Im just a girl" was that songs meaning is pretty clear on how Stefani was denigrated for being a woman in rock s...
+    - Edit: If you don't wanna read it, then don't, you don't need comment that you're not gonna read it bro- Girl math can be boiled down 3 main points 1. ...
+    - While I don’t agree with girl math, I do understand concept they are trying apply. Basically “Girl math” is having a set budget for all things and any...
+
+Topic 1: 1_rule_exist_problem_just (27 comments)
+  Representative Comments:
+    - You did exactly what I am teaching my students not do. There exist cases where limit of f'(x)/g'(x) does not exist while limit of f(x)/g(x) exists. (A...
+    - only tricky thing in this problem is proof of L'Hospital rule :)...
+    - Him : Lopitals rule Jee Aspirants: L Hospital🏥🚑 rule...

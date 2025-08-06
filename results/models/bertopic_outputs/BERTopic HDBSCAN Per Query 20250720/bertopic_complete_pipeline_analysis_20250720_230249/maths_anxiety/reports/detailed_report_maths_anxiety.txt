@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'maths anxiety' ---
+
+Generated on: 2025-07-20 23:04:14
+Total documents analyzed: 241
+Topics discovered: 2
+Noise (unassigned documents): 6 (2.49%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_great_people_just (138 comments)
+  Representative Comments:
+    - I’m 43 and got subjected math torture in late 90s. thing about math for is that there’s no logic in it or obvious syntax in algebra. How people make s...
+    - So basically, you were never taught anything beyond algorithmic solutions for basic arithmetic, moved on more abstract mathematics, and never had look...
+    - As a Canadian math teacher this episode hurts my heart. I'm so sorry your grade 1 teacher did that you, that is terrible math teaching. I work so hard...
+
+Topic 1: 1_math_anxiety_time_just (97 comments)
+  Representative Comments:
+    - I've struggled with math anxiety for most of my childhood. Anxiety was a huge part play, because math requires a lot of concentration. I had an instru...
+    - My difficulty with math has always been lack of confidence and how we were made learn it with time pressure. I don't cope well with short time limits ...
+    - My school had those timed math tests too. But instead of stickers, anyone who finished with all right answers in one minute either got eat outside for...

@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'math for data science' ---
+
+Generated on: 2025-07-20 23:03:35
+Total documents analyzed: 590
+Topics discovered: 2
+Noise (unassigned documents): 568 (96.27%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_data_thanks_video_great (568 comments)
+  Representative Comments:
+    - Dmitri, I am currently studying an undergrad data science degree at University of Bristol. I know that undergrad data science is usually quite undevel...
+    - Krish - More great content! I have a video on my channel where I talk about math you should learn for data science, but this takes it a step further! ...
+    - Great summary of data science mathematics landscape. I have been a practicing data scientist for 6 years and have had learn most of this stuff in a pi...
+
+Topic 1: 1_values_100_percentile_median (22 comments)
+  Representative Comments:
+    - Consider my data points: 100 100 100 100 here 50th percentile which is 100 is kinda misleading right? because 2 more 100 values are present in right s...
+    - Dhaval, Greetings! Thanks a lot for creating wonderful videos for everyone and these videos are invaluable. I was watching your Mean, Median, Mode vid...
+    - Dhaval, Greetings! Thanks a lot for creating wonderful videos for everyone and these videos are invaluable. I was watching your Mean, Median, Mode vid...

@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "math stereotypes"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:15
+Query: math stereotypes
+Safe Query Name: math_stereotypes
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 243
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 243 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 78 comments): math, chinese, good, school, learning, maths, just, basic
+  2. Topic  1 ( 47 comments): professor, exercise, test, easy, gave, class, proof, prof
+  3. Topic  2 ( 44 comments): women, men, video, love, money, work, amazing, great
+  4. Topic  3 ( 42 comments): exam, remember, notes, test, did, method, study, actually
+  5. Topic  4 ( 32 comments): decimal, point, 10, floating, floating point, base, problem, computer
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_math_stereotypes/
+- Data: data/data_with_topics_math_stereotypes.csv
+- Topic Info: data/topic_info_math_stereotypes.csv
+- Visualizations: visualizations/*_math_stereotypes.*
+
+This analysis provides optimized topic discovery for the search query "math stereotypes" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

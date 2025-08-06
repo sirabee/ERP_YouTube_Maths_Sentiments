@@ -1,0 +1,55 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "differentiation tutorial"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:19
+Query: differentiation tutorial
+Safe Query Name: differentiation_tutorial
+Clustering Method: K-means with K=10 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 233
+- Optimal K Value: 10
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 10 (K-means K=10)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 233 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 42 comments): njn, chemistry, yung, video, exam, maths, class, ma
+  2. Topic  1 ( 33 comments): maths, mathematics, math, answer, grade, just, come, question
+  3. Topic  2 ( 28 comments): explanation, understand, thank, help, ve, explain, thanks, fast
+  4. Topic  3 ( 25 comments): thanks, helpful, great, amazing, helpful thanks, thanks dude, useful thanks, thanks lot
+  5. Topic  4 ( 23 comments): videos, video, great, god, using, thank, god bless, gcse
+  6. Topic  5 ( 18 comments): calculus, way, just, differentiation, graph, drawn, came, said
+  7. Topic  6 ( 18 comments): teaching, teacher, excellent, love, excellent teaching, great teacher, lecture, lectures
+  8. Topic  7 ( 17 comments): rule, chain, chain rule, sar, answer, cos2x, send, question
+  9. Topic  8 ( 15 comments): probability, integration, complex, corner, need, relations, relation, complex numbers
+ 10. Topic  9 ( 14 comments): maturity, easy, level, realise, maturity realise, understand, preparation, day
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=10, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=10
+This configuration uses query-specific K=10 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_differentiation_tutorial/
+- Data: data/data_with_topics_differentiation_tutorial.csv
+- Topic Info: data/topic_info_differentiation_tutorial.csv
+- Visualizations: visualizations/*_differentiation_tutorial.*
+
+This analysis provides optimized topic discovery for the search query "differentiation tutorial" 
+using K-means clustering with K=10 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

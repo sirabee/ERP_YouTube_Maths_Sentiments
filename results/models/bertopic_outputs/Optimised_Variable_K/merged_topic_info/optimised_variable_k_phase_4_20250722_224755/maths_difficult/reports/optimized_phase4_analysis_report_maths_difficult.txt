@@ -1,0 +1,54 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths difficult"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:45
+Query: maths difficult
+Safe Query Name: maths_difficult
+Clustering Method: K-means with K=9 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 571
+- Optimal K Value: 9
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 9 (K-means K=9)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 571 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (118 comments): math, school, maths, class, good, bad, teachers, learning
+  2. Topic  1 ( 80 comments): question, sat, answer, exam, problem, wrong, thank, cross section
+  3. Topic  2 ( 74 comments): sir, thanks, easy, paper, hard, question, mam, great
+  4. Topic  3 ( 66 comments): video, videos, great, thank, love, amazing, story, man
+  5. Topic  4 ( 55 comments): perelman, mathematicians, mathematician, great, guy, problem, grigori, mathematics
+  6. Topic  5 ( 54 comments): 4y, 2x, 2x 4y, equation, 64, integers, number, goats
+  7. Topic  6 ( 51 comments): proof, fermat, theorem, gamma, fermat theorem, rational, hypothesis, wiles
+  8. Topic  7 ( 41 comments): 15, answer, 15 16, 16, power 15, pi, power, conjecture
+  9. Topic  8 ( 32 comments): 12, sqrt, 161, frac, square, 72, binomial, dx
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=9, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=9
+This configuration uses query-specific K=9 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_difficult/
+- Data: data/data_with_topics_maths_difficult.csv
+- Topic Info: data/topic_info_maths_difficult.csv
+- Visualizations: visualizations/*_maths_difficult.*
+
+This analysis provides optimized topic discovery for the search query "maths difficult" 
+using K-means clustering with K=9 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

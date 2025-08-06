@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'maths revision' ---
+
+Generated on: 2025-07-20 23:04:01
+Total documents analyzed: 360
+Topics discovered: 2
+Noise (unassigned documents): 344 (95.56%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_exam_got_bhaiya_marks (344 comments)
+  Representative Comments:
+    - you dont believe tomorrow is my exam and i am learning from your videos You are just awesome ❤❤❤❤...
+    - got my exam twmr. this video helped be alot. thank you...
+    - Bhaiya Kal mera Exam he😢...
+
+Topic 1: 1_practice_makes_makes man_man (16 comments)
+  Representative Comments:
+    - Practice makes man perfect ❤...
+    - Hence Proved Practice makes A Man Perfect...
+    - Practice makes a man perfect 💪🏻...

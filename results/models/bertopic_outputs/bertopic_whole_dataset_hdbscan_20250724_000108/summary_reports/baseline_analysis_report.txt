@@ -1,0 +1,54 @@
+BERTOPIC WHOLE-DATASET HDBSCAN BASELINE ANALYSIS REPORT
+================================================================================
+
+Analysis Date: 2025-07-24 00:02:07
+Dataset: Complete Pipeline Comments (34,057 comments)
+Purpose: Baseline comparison with documented methodology evolution
+
+DATASET INFORMATION:
+----------------------------------------
+Total Comments: 34,048
+Unique Videos: 1,573
+Average Comment Length: 127.0 characters
+Source File: /Users/siradbihi/Desktop/MScDataScience/YouTube_Mathematics_Sentiment_Analysis/data/processed/comments_complete_filtered_20250720_224959.csv
+
+BERTOPIC CONFIGURATION:
+----------------------------------------
+Embedding Model: all-MiniLM-L6-v2
+UMAP Parameters: {'n_components': 5, 'n_neighbors': 15, 'metric': 'cosine', 'random_state': 42}
+HDBSCAN Parameters: {'min_cluster_size': 15, 'metric': 'euclidean', 'cluster_selection_method': 'eom'}
+Vectorizer Parameters: {'ngram_range': (1, 2), 'stop_words': 'english', 'max_features': 1000, 'min_df': 2}
+
+ANALYSIS RESULTS:
+----------------------------------------
+Total Documents Processed: 34,048
+Unique Topics Found: 242
+Noise Documents: 17,850
+Noise Percentage: 52.43%
+Silhouette Score: 0.5591
+Processing Duration: 0:00:47.962909
+
+PERFORMANCE COMPARISON:
+----------------------------------------
+Current Analysis (Whole-Dataset HDBSCAN): 52.43% noise
+Complete Pipeline Baseline (Per-Query HDBSCAN): 8.72% weighted noise
+Documented Optimal (Variable K-means): 0% noise
+
+❌ PERFORMANCE: Below complete pipeline baseline
+
+IMPROVEMENT vs BASELINE: -43.71 percentage points
+
+METHODOLOGY IMPLICATIONS:
+----------------------------------------
+This analysis validates the complete pipeline dataset quality and provides
+baseline comparison for the documented methodology evolution from HDBSCAN
+to variable K-means clustering approach.
+
+NEXT STEPS:
+----------------------------------------
+1. Proceed with variable K-means implementation for optimal performance
+2. Use this baseline for methodology comparison documentation
+3. Integrate with sentiment analysis pipeline
+
+Report Generated: 2025-07-24 00:02:07.009755
+Output Directory: bertopic_whole_dataset_hdbscan_20250724_000108

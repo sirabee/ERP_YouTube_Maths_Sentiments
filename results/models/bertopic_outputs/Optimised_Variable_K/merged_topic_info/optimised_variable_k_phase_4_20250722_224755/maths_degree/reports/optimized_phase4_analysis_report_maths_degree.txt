@@ -1,0 +1,48 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths degree"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:32
+Query: maths degree
+Safe Query Name: maths_degree
+Clustering Method: K-means with K=3 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 74
+- Optimal K Value: 3
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 3 (K-means K=3)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 74 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 34 comments): math, degree, school, physics, mathematics, teach, level, love
+  2. Topic  1 ( 22 comments): sorcerer, thanks, video, math sorcerer, math, book, 8th, advice
+  3. Topic  2 ( 18 comments): college, people, degree, debt, education, worth, college degree, job
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=3, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=3
+This configuration uses query-specific K=3 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_degree/
+- Data: data/data_with_topics_maths_degree.csv
+- Topic Info: data/topic_info_maths_degree.csv
+- Visualizations: visualizations/*_maths_degree.*
+
+This analysis provides optimized topic discovery for the search query "maths degree" 
+using K-means clustering with K=3 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

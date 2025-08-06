@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'math classroom' ---
+
+Generated on: 2025-07-20 23:04:30
+Total documents analyzed: 62
+Topics discovered: 2
+Noise (unassigned documents): 54 (87.10%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_thank_great_sharing_thanks (54 comments)
+  Representative Comments:
+    - Thank you. Can you teach maths also I enjoy your teachings...
+    - This sounds so fun! I will try it with my 5/6 grade class thank you for sharing!...
+    - This is great! Thank you for sharing. What do your early finishers do?...
+
+Topic 1: 1_thanks_great_video_thanks sharing (8 comments)
+  Representative Comments:
+    - Thanks a lot!...
+    - Thanks a lot...
+    - That's great. Thanks so much....

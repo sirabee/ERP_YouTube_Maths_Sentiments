@@ -1,0 +1,57 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths GCSE"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:31
+Query: maths GCSE
+Safe Query Name: maths_GCSE
+Clustering Method: K-means with K=12 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 698
+- Optimal K Value: 12
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 12 (K-means K=12)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 698 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (108 comments): gcse, maths, grade, year, im, mocks, luck, paper
+  2. Topic  1 ( 87 comments): video, maths, math, videos, exam, channel, helpful, edexcel
+  3. Topic  2 ( 86 comments): understand, explanation, teacher, thank, thanks, lesson, explain, explained
+  4. Topic  3 ( 78 comments): exam, tomorrow, questions, exam tomorrow, thank, 9am, practice, saved
+  5. Topic  4 ( 77 comments): equation, question, sequence, maths, math, thanks, functions, root
+  6. Topic  5 ( 73 comments): video, videos, amazing, thank, great, helpful, thanks, helped
+  7. Topic  6 ( 49 comments): thanks, helpful, useful, helpful thanks, helpful thank, thank, help thanks, help
+  8. Topic  7 ( 32 comments): 22, question, 12, 58, 136, answer, 360, 100
+  9. Topic  8 ( 31 comments): test, trickiest, helped, solve, question, thank, test tomorrow, easy
+ 10. Topic  9 ( 30 comments): mu, ob, nb, mass, om, point, theorem, use
+ 11. Topic 10 ( 27 comments): bearings, bearing, understand, explanation, cognito, video, thanks, example
+ 12. Topic 11 ( 20 comments): vectors, understand, vector, thank, understand thank, struggling, zero, know helpful
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=12, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=12
+This configuration uses query-specific K=12 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_GCSE/
+- Data: data/data_with_topics_maths_GCSE.csv
+- Topic Info: data/topic_info_maths_GCSE.csv
+- Visualizations: visualizations/*_maths_GCSE.*
+
+This analysis provides optimized topic discovery for the search query "maths GCSE" 
+using K-means clustering with K=12 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

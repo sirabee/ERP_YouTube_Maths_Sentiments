@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'mathematics society' ---
+
+Generated on: 2025-07-20 23:04:28
+Total documents analyzed: 85
+Topics discovered: 2
+Noise (unassigned documents): 74 (87.06%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_great_time_people_hard (74 comments)
+  Representative Comments:
+    - Neil himself cannot solve mystery of black hold but yet want comment a great mathematician, what a joke 🤣🤣🤣...
+    - This guy is full of himself, Alghazali is a great thinker, in that book talked about greak and muslim philosophers not math and science...
+    - ALL MATHEMATICS ALGEBRA GEOMETRY BINARY MATHS DIGITAL NUMBERS DICEMAL SYSTEM ETC COME N MUCH MORE FROM VEDIC HINDU BOOKS N GREAT SCIENTIFIC RESEARCHER...
+
+Topic 1: 1_life_amazing_father_respect (11 comments)
+  Representative Comments:
+    - You can see pain in that boy’s eyes. Kudos his father supporting his son, even though it most likely cost his life. I’m sure this boy will go high pla...
+    - That's an amazing dad. He gave up everything he had, likely including his freedom for rest of his life, so his son could live a better life. My heart ...
+    - this is so heartbreaking ad amazing at same time. he knew that he would die but wanted his son have a good life. major respect❤😭...

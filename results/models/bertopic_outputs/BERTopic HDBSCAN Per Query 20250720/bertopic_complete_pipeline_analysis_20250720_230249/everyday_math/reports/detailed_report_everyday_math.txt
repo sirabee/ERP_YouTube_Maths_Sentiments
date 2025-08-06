@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'everyday math' ---
+
+Generated on: 2025-07-20 23:04:23
+Total documents analyzed: 130
+Topics discovered: 2
+Noise (unassigned documents): 25 (19.23%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_maths_course_make (59 comments)
+  Representative Comments:
+    - i used watch you for math lessons...
+    - If I take a bite out a burrito is that math it is not math...
+    - Math is everywhere and everywhen, yet nowhere, and nowhen....
+
+Topic 1: 1_math_doing_problems_just (46 comments)
+  Representative Comments:
+    - Im only just now learning around intermediate/college algebra. Does most of this logic still stand? Because when you talk about doing problems, they a...
+    - I recently just failed all my Entrance Exams and I am about take them again next year it's all because I suck at Math and never listened my professors...
+    - I spend 1-2 hours a day but sometimes i just can't get my self do math and sometimes i can't go without doing math...

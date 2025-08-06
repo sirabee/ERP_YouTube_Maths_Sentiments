@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'math exam' ---
+
+Generated on: 2025-07-20 23:03:00
+Total documents analyzed: 1077
+Topics discovered: 2
+Noise (unassigned documents): 1007 (93.50%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_exam_just_test (1007 comments)
+  Representative Comments:
+    - Great video! I've started teaching other people Math's topics which I can definitely say helps my understanding. only problem I have is exam anxiety, ...
+    - This exam was so difficult. I always thought my "AYT Math" was good enough. But during exam, my brain just stopped. I was skipping 5-6 questions at a ...
+    - As a Turkish person who really studied for this exact exam, I can confirm that as public school students we weren't prepared for these kind of questio...
+
+Topic 1: 1_exam_liye_question_video (70 comments)
+  Representative Comments:
+    - Jab Maine reel rahi exam ek din baki 😅😅😂😂...
+    - Exam khatam gye 😢😢😅😅😂😂...
+    - Exam pehle btana na 😢...

@@ -1,0 +1,55 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "real world maths"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:00
+Query: real world maths
+Safe Query Name: real_world_maths
+Clustering Method: K-means with K=10 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 381
+- Optimal K Value: 10
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 10 (K-means K=10)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 381 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 69 comments): thanks, video, helpful, great, sharing, nice, video thanks, thank
+  2. Topic  1 ( 49 comments): math, maths, problem, calculus, know, think, school, don
+  3. Topic  2 ( 46 comments): mean, arithmetic, arithmetic mean, average, geometric, means, km, geometric mean
+  4. Topic  3 ( 43 comments): math, god, infinite, universe, does, just, numbers, exists
+  5. Topic  4 ( 40 comments): thank, math, maths, mam, class, thanks, teacher, didn
+  6. Topic  5 ( 38 comments): ml, learning, learn, ai, machine, deep, machine learning, deep learning
+  7. Topic  6 ( 32 comments): matt, adam, math, favorite, guys, great, just, challenge
+  8. Topic  7 ( 25 comments): vedic, mam, maths, vedic maths, jee, chala, exam, question
+  9. Topic  8 ( 24 comments): answer, 55, 25, answer 55, sir, cm, homework, 22
+ 10. Topic  9 ( 15 comments): trigonometry, geometry, shape, truncated, icosahedron, bird, golden, space
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=10, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=10
+This configuration uses query-specific K=10 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_real_world_maths/
+- Data: data/data_with_topics_real_world_maths.csv
+- Topic Info: data/topic_info_real_world_maths.csv
+- Visualizations: visualizations/*_real_world_maths.*
+
+This analysis provides optimized topic discovery for the search query "real world maths" 
+using K-means clustering with K=10 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

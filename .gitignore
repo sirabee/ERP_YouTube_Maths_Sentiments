@@ -1,0 +1,107 @@
+# Data Privacy Protection
+data/raw/
+# data/processed/ is now included for transparency
+*.csv
+!data/sample/*.csv
+!results/tables/*.csv
+# Include specific processed datasets for transparency
+!data/processed/comments_complete_filtered_20250720_224959.csv
+!data/processed/videos_gradual_complete_filtered_20250720_223652.csv
+
+# API Keys and Credentials
+.env
+config.py
+config/config.py
+*api_key*
+*credentials*
+*.key
+*.pem
+
+
+# Personal Information
+*_personal.*
+*_private.*
+*_raw_comments.*
+*_raw_channels.*
+*_usernames.*
+
+# Model Files
+*.bin
+*.h5
+*.pt
+*.pkl
+!models/small_models/*.pkl
+# Exclude large BERTopic model files
+results/models/bertopic_outputs/*/models/*
+**/bertopic_*_model
+# Exclude large HTML visualization files
+results/models/bertopic_outputs/**/*.html
+results/models/**/*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+tmp/
+temp/

@@ -1,0 +1,46 @@
+
+=== SENTIMENT ANALYSIS INTEGRATION WITH BERTOPIC RESULTS ===
+Analysis completed: 2025-07-26 20:37:34
+Dataset: YouTube Mathematical Education Comments with Topic Assignments
+
+=== OVERALL ANALYSIS SUMMARY ===
+Total comments analyzed: 34,024
+Unique topics identified: 19
+Unique search queries: 82
+
+=== SENTIMENT DISTRIBUTION ===
+positive: 52.83%
+neutral: 33.36%
+negative: 13.81%
+
+Average sentiment confidence: 0.810
+
+=== TOPIC-LEVEL SENTIMENT ANALYSIS ===
+Topics with positive majority sentiment: 0
+Topics with negative majority sentiment: 0
+Topics with neutral majority sentiment: 0
+
+Most positive topic: Topic 16 (score: 0.922)
+Most negative topic: Topic 8 (score: 0.786)
+
+=== SEARCH QUERY SENTIMENT INSIGHTS ===
+
+Most positive queries:
+  - 'matrices explained': 0.885
+  - 'vectors tutorial': 0.877
+  - 'decimals help': 0.865
+  - 'statistics lesson': 0.853
+  - 'women in maths': 0.852
+
+Most negative queries:
+  - 'girls and math': 0.720
+  - 'maths degree': 0.718
+  - 'math hard': 0.710
+  - 'discalculia': 0.706
+  - 'mathematics society': 0.700
+
+=== EDUCATIONAL INSIGHTS ===
+This analysis reveals sentiment patterns in mathematical education discourse.
+The integration of BERTopic themes with sentiment analysis enables
+identification of specific educational aspects that generate positive
+or negative emotional responses from learners.

@@ -1,0 +1,96 @@
+--- BERTopic Complete Pipeline Analysis Final Report ---
+
+Analysis completed on: 20250720_230249
+Dataset: Complete comment filtering pipeline output
+Processed 82 queries. Successful analyses: 82.
+
+--- Analysis Summary by Query ---
+                    query  n_docs  n_topics  noise_pct
+            decimals help    1246         2   0.000000
+                math exam    1077         2   0.000000
+   trigonometry explained    1034         3   2.321083
+      quadratic equations    1026        11  24.171540
+        algebra explained     965         2   1.450777
+       matrices explained     923        11  17.876490
+         linear equations     889        18  15.185602
+        statistics lesson     825        16  18.060606
+            mathematician     824        11  25.000000
+      arithmetic tutorial     818        18  16.748166
+        mathematics study     790        15  30.886076
+    percentages explained     776        13   9.536082
+               maths tips     749         2   0.000000
+               maths GCSE     698         3   0.000000
+            year 11 maths     677        10  13.293944
+       fractions tutorial     648        12  15.586420
+             maths useful     634         3   0.630915
+        engineering maths     618        12  14.886731
+         vectors tutorial     611        12  22.258592
+    math for data science     590         2   0.000000
+             maths boring     580        13  18.275862
+            geometry help     575         3   0.000000
+         university maths     573         2   0.000000
+          maths difficult     571        14  15.586690
+             year 10 math     524         2   0.000000
+            maths teacher     507         4   1.183432
+      physics mathematics     503         7  11.133201
+            business math     477         4   0.000000
+          why learn maths     473         2   0.000000
+         probability help     462         2   0.000000
+        calculus tutorial     458         7  10.698690
+      applied mathematics     454         6   8.149780
+             math A Level     445        11  21.348315
+                math hard     435         2   0.000000
+                maths job     410         2   0.000000
+      college mathematics     403         2   0.000000
+         real world maths     381         9  15.748031
+         math discoveries     375         2   0.000000
+   maths for data science     368         7  13.858696
+           math important     363         2   0.000000
+           maths revision     360         2   0.000000
+      Edexcel mathematics     357         7  19.327731
+             maths lesson     357         3   0.000000
+    practical mathematics     340         6  13.235294
+     mathematics tutorial     334         2   2.694611
+           math confusing     318         2   0.000000
+           maths pedagogy     312         3   7.051282
+            maths history     298         8   9.731544
+       maths for everyone     273         3   3.663004
+              math career     271         3   0.000000
+                math love     268         4   4.850746
+          financial maths     258         2   0.000000
+               maths hate     250         2   0.000000
+         math stereotypes     243         3   0.000000
+                AQA maths     242         4   0.000000
+            maths anxiety     241         2   2.489627
+            ratios lesson     241         4  14.522822
+ differentiation tutorial     233         4   1.287554
+          Key Stage maths     227         2   0.881057
+  mathematics challenging     223         6  18.834081
+           girls and math     222         2   0.000000
+                 OCR math     209         3  13.397129
+              discalculia     180         2  27.222222
+              math skills     169         3  24.852071
+              math phobia     169         4  14.201183
+         mathematics easy     157         3   0.000000
+        maths frustrating     149         4   6.711409
+    famous mathematicians     141         5   3.546099
+            everyday math     130         2  19.230769
+    mathematics education     124         3  21.774194
+                 math fun     121         3  17.355372
+mathematics breakthroughs     113         3  22.123894
+           teaching maths     107         2  15.887850
+            maths in life     101         2   0.000000
+   mathematics instructor      86         4  10.465116
+      mathematics society      85         2   0.000000
+    diversity mathematics      76         5   7.894737
+             maths degree      74         4  20.270270
+             math teacher      72         4  12.500000
+           math classroom      62         2   0.000000
+           women in maths      48         2   6.250000
+         integration help      28         2   0.000000
+
+--- Performance Comparison ---
+Original methodology: 18.22% weighted average noise (78,102 docs)
+Complete pipeline: 8.72% weighted average noise (34,024 docs)
+
+All outputs saved in: /Users/siradbihi/Desktop/MScDataScience/ERP Maths Sentiments/Video Datasets/Complete Pipeline/bertopic_complete_pipeline_analysis_20250720_230249

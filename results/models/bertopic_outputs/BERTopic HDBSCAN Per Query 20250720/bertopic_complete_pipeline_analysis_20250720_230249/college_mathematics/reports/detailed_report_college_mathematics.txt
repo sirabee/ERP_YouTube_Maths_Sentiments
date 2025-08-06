@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'college mathematics' ---
+
+Generated on: 2025-07-20 23:03:56
+Total documents analyzed: 403
+Topics discovered: 2
+Noise (unassigned documents): 374 (92.80%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_thank_mathematics_great (374 comments)
+  Representative Comments:
+    - 10:35am I have never had Algebra I'm in college and I am behind in my class man I have been trying understand but I'm not getting it ! Table math has ...
+    - Math is in all you see. Shapes and numbers are everything. Thank you ....
+    - Thank you so much, I was barely in attendance for HS and always hated math. You really have a gift in teaching!...
+
+Topic 1: 1_exam_university_sir_plz (29 comments)
+  Representative Comments:
+    - achaa parate raiye 🥹 exam fir jayga...
+    - great sir its help for delhi university exam also...
+    - main exam 1ghante pahle raha hoon or muze samja dekhta hoon exam main likhta hoon . thanku sir ❤...

@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "practical mathematics"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:07
+Query: practical mathematics
+Safe Query Name: practical_mathematics
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 340
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 340 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 86 comments): exam, question, sir, ee, 50, thanks, 50 50, march
+  2. Topic  1 ( 81 comments): maths, math, practice, ncert, pyq, standard, bata, marks
+  3. Topic  2 ( 74 comments): sir, useful, thanks, thank, helpful, thank sir, really, thanks sir
+  4. Topic  3 ( 52 comments): formula, sheet, formula sheet, solutions, video, make, did, pls
+  5. Topic  4 ( 47 comments): math, teacher, maths, beautiful, perfect, circle, maths teacher, math teacher
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_practical_mathematics/
+- Data: data/data_with_topics_practical_mathematics.csv
+- Topic Info: data/topic_info_practical_mathematics.csv
+- Visualizations: visualizations/*_practical_mathematics.*
+
+This analysis provides optimized topic discovery for the search query "practical mathematics" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

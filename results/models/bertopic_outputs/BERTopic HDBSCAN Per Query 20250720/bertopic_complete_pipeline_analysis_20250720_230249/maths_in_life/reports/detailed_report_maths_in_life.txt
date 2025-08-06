@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'maths in life' ---
+
+Generated on: 2025-07-20 23:04:26
+Total documents analyzed: 101
+Topics discovered: 2
+Noise (unassigned documents): 52 (51.49%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_thank_math_really_love (52 comments)
+  Representative Comments:
+    - thank you this was really helpful sir!!...
+    - A great start my frnd😍... Really informative... It's makin c everything n a different way...All d best fr u 2 reach more n more heights😇...
+    - love this video, when i’ll pass physics exam i know who thank for it🩷...
+
+Topic 1: 1_problem_just_years_numbers (49 comments)
+  Representative Comments:
+    - This man is brilliant. He says numbers show that origin of spontaneous life is impossible. Dr Tour say his argument is based on chemistry, a new way o...
+    - idea that aliens may not be able see or reach is often discussed in context of speed of light and distances in universe. There are a few reasons why i...
+    - There are infinite numbers of possibilities but you only need one number, right number achieve outcome. Maybe it was not a probability but inevitabili...

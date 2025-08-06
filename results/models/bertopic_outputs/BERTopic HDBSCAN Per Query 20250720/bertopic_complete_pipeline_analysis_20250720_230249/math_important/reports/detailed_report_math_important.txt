@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'math important' ---
+
+Generated on: 2025-07-20 23:04:00
+Total documents analyzed: 363
+Topics discovered: 2
+Noise (unassigned documents): 281 (77.41%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_video_thank_thanks (281 comments)
+  Representative Comments:
+    - Is this video everything that will be on math section ?...
+    - This is video I needed watch. I definitely need freshen up my math skills, and work on my typing. I type fast but I tend pause and at moments I’m slop...
+    - Great video my math ged test is tomorrow and this really helped Thank you very much...
+
+Topic 1: 1_question_sir_answer_right (82 comments)
+  Representative Comments:
+    - question no 3. right Answer is 212.1...
+    - Question no.5 answer 0.6 percent...
+    - science or lage common question sir ❤❤...

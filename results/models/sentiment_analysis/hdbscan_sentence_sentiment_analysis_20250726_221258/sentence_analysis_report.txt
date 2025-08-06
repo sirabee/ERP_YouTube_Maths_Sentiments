@@ -1,0 +1,47 @@
+
+=== SENTENCE-LEVEL SENTIMENT ANALYSIS REPORT ===
+Analysis completed: 2025-07-26 22:54:11
+Method: Per-sentence sentiment analysis with progression detection
+
+=== SUMMARY STATISTICS ===
+Total comments analyzed: 34,024
+Comments with sentiment transitions: 9,047 (26.59%)
+Learning journeys detected: 1,447 (4.25%)
+
+=== SENTENCE-LEVEL SENTIMENT DISTRIBUTION ===
+POSITIVE: 18,190 (53.46%)
+NEUTRAL: 11,736 (34.49%)
+NEGATIVE: 4,098 (12.04%)
+
+=== SENTIMENT PROGRESSION PATTERNS ===
+single_sentence: 18,415 (54.12%)
+stable: 6,562 (19.29%)
+simple_transition: 4,882 (14.35%)
+complex_progression: 2,718 (7.99%)
+learning_journey: 1,447 (4.25%)
+
+=== LEARNING JOURNEY EXAMPLES ===
+
+Example 1:
+If these videos were around when I was in high school I would have had way less stress. Half battle for was giving up when I got frustrated, because I felt teachers weren’t explaining it simple enough or they would rush through lessons once they felt at least half class understood. This also makes i...
+
+Example 2:
+Your videos have helped so much!! I can not find words express my gratitude. I'm a little embarrassed say that I am an adult with elementary level mathematical aptitude. I have a very important entrance exam soon for a dream job, and I have be able demonstrate an understanding of basic mathematical ...
+
+Example 3:
+Definitely one of best Math Video creator. I love step summary. I remember learning these Math stuff in grade school and my teachers made it so complex and dragging (or maybe I wasnt so into it). Fast forward 30 years... Now that I am a mom with homeschooled kids, your videos make it wayyyy too easy...
+
+=== EDUCATIONAL INSIGHTS ===
+This sentence-level analysis reveals 1447 comments showing
+educational transformation patterns (negative-to-positive progression).
+These represent genuine learning experiences where students express
+initial confusion or difficulty followed by understanding and gratitude.
+
+Average sentences per comment: 2.0
+Comments with multiple sentences: 15,609
+
+=== METHODOLOGY ===
+- Sentence segmentation: spaCy English model
+- Sentiment analysis: Twitter RoBERTa (cardiffnlp/twitter-roberta-base-sentiment-latest)
+- Learning journey detection: Negative-to-positive progression patterns
+- Final sentiment weighting: Educational context-aware algorithms

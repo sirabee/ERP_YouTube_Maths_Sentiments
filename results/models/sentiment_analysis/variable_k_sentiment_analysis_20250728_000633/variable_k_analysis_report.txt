@@ -1,0 +1,55 @@
+
+=== VARIABLE K-MEANS BERTOPIC SENTIMENT ANALYSIS INTEGRATION ===
+Analysis completed: 2025-07-28 00:14:12
+Dataset: YouTube Mathematical Education Comments with Variable K-means Topic Assignments
+Algorithm: Variable K-means Clustering (optimised_variable_k_phase_4)
+
+=== OVERALL ANALYSIS SUMMARY ===
+Total comments analyzed: 35,438
+Unique topics identified: 12
+Unique search queries: 80
+Processing source: optimised_variable_k_phase_4
+
+=== SENTIMENT DISTRIBUTION ===
+positive: 53.95%
+neutral: 32.70%
+negative: 13.35%
+
+Average sentiment confidence: 0.814
+
+=== VARIABLE K-MEANS TOPIC-LEVEL SENTIMENT ANALYSIS ===
+Topics with positive majority sentiment: 0
+Topics with negative majority sentiment: 0
+Topics with neutral majority sentiment: 0
+
+Most positive Variable K-means topic: Topic 11 (score: 0.888)
+Most negative Variable K-means topic: Topic 10 (score: 0.760)
+
+=== SEARCH QUERY SENTIMENT INSIGHTS ===
+
+Most positive queries:
+  - 'matrices_explained': 0.890
+  - 'vectors_tutorial': 0.879
+  - 'math_classroom': 0.871
+  - 'decimals_help': 0.867
+  - 'year_11_maths': 0.857
+
+Most negative queries:
+  - 'girls_and_math': 0.720
+  - 'maths_degree': 0.718
+  - 'math_hard': 0.710
+  - 'discalculia': 0.702
+  - 'mathematics_society': 0.700
+
+=== VARIABLE K-MEANS SPECIFIC INSIGHTS ===
+This analysis applies sentiment analysis to Variable K-means topic assignments.
+Variable K-means clustering identified 12 distinct topics from
+mathematical education discourse, providing a different perspective from HDBSCAN.
+The sentiment patterns can be compared with HDBSCAN results for algorithmic
+comparison and validation in mathematical education research.
+
+=== EDUCATIONAL INSIGHTS ===
+Variable K-means topic modeling with sentiment analysis reveals specific
+emotional responses to mathematical education content. This approach enables
+comparison between different clustering algorithms (Variable K-means vs HDBSCAN)
+in identifying sentiment patterns within mathematical learning discourse.

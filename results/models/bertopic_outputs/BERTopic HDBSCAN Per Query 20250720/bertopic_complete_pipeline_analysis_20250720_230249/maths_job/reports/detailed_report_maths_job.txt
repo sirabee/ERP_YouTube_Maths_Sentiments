@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'maths job' ---
+
+Generated on: 2025-07-20 23:03:55
+Total documents analyzed: 410
+Topics discovered: 2
+Noise (unassigned documents): 341 (83.17%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_easy_sir_explain_bro (341 comments)
+  Representative Comments:
+    - Best easy explain...
+    - Easy sums chala easy ga untayi... Le adey... Exam lo vachey toughest sums veellu cheyaleru Karanam .... Meeke vadhilesthunna😅😅...
+    - BBM krne liye math hona jruri h sir please explain...
+
+Topic 1: 1_answer_right_27_numbers (69 comments)
+  Representative Comments:
+    - 27 is right answer...
+    - 27 is right answer...
+    - 27 is right answer...

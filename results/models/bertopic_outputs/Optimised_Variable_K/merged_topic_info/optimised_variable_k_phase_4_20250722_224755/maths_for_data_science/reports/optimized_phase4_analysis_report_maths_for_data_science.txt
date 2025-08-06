@@ -1,0 +1,49 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths for data science"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:02
+Query: maths for data science
+Safe Query Name: maths_for_data_science
+Clustering Method: K-means with K=4 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 368
+- Optimal K Value: 4
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 4 (K-means K=4)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 368 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (130 comments): data, science, maths, data science, math, learn, algebra, learning
+  2. Topic  1 (100 comments): thanks, thank, great, sir, amazing, helpful, really, lot
+  3. Topic  2 ( 78 comments): statistics, test, hypothesis, stats, video, testing, book, videos
+  4. Topic  3 ( 60 comments): exam, watching, exam watching, board, board exam, day, hour, watching video
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=4, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=4
+This configuration uses query-specific K=4 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_for_data_science/
+- Data: data/data_with_topics_maths_for_data_science.csv
+- Topic Info: data/topic_info_maths_for_data_science.csv
+- Visualizations: visualizations/*_maths_for_data_science.*
+
+This analysis provides optimized topic discovery for the search query "maths for data science" 
+using K-means clustering with K=4 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.
