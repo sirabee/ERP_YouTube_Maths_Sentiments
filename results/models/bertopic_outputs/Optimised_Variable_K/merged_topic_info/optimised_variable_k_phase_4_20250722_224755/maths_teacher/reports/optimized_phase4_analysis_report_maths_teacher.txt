@@ -1,0 +1,48 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths teacher"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:48
+Query: maths teacher
+Safe Query Name: maths_teacher
+Clustering Method: K-means with K=3 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 507
+- Optimal K Value: 3
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 3 (K-means K=3)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 507 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (299 comments): thanks, thank, math, teacher, video, maths, demo, school
+  2. Topic  1 (140 comments): sir, maths, plz, math, plz plz, teacher, aditya, ranjan
+  3. Topic  2 ( 68 comments): answer, 1326, answer 1326, 26, 1326 answer, 51, 13, correct answer
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=3, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=3
+This configuration uses query-specific K=3 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_teacher/
+- Data: data/data_with_topics_maths_teacher.csv
+- Topic Info: data/topic_info_maths_teacher.csv
+- Visualizations: visualizations/*_maths_teacher.*
+
+This analysis provides optimized topic discovery for the search query "maths teacher" 
+using K-means clustering with K=3 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

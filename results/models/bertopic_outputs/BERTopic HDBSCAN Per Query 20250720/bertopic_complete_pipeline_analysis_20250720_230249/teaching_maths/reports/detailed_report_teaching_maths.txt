@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'teaching maths' ---
+
+Generated on: 2025-07-20 23:04:26
+Total documents analyzed: 107
+Topics discovered: 2
+Noise (unassigned documents): 17 (15.89%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_thanks_video_thank_great (59 comments)
+  Representative Comments:
+    - So much functional thanks mam....
+    - Thanks Sara. I learnt how use Google Meet through this video. Thanks again....
+    - Great video Tibees. Thanks for resources....
+
+Topic 1: 1_math_great_world_god (31 comments)
+  Representative Comments:
+    - G. S. Carr probably never expected that his book would be one awaken one of math Gods of 20th century....
+    - Ramanujan's story and math discoveries are indeed fascinating! Thank you for this video; keep up good work!...
+    - It's really inspirational/relatable learn about this math legend. I can't afford college right now but that's not stopping from learning. I'm going th...

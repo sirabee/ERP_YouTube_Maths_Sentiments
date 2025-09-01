@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'integration help' ---
+
+Generated on: 2025-07-20 23:04:31
+Total documents analyzed: 28
+Topics discovered: 2
+Noise (unassigned documents): 18 (64.29%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_make_really_sir_great (18 comments)
+  Representative Comments:
+    - This is great new tech howeever some of i still using on Prepm SQL 2016 due Application limitation , we still got a long way go....
+    - can you ask Microsoft SQL team make "SQL Server & Studio" keep a log of performance & query, as allow look back see if server is running low on RAM, I...
+    - I am just looking understand value. These statements make cringe. Any data that you present LLM sits on side of it and it is never absorbed into LLM. ...
+
+Topic 1: 1_practice_make_sir_really (10 comments)
+  Representative Comments:
+    - Practice Makes Men Perfect 😊...
+    - Practice makes a man perfect✊🏆🏆...
+    - Practice is key success🏆💪 💯...

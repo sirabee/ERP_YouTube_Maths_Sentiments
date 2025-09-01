@@ -1,0 +1,89 @@
+AGGREGATED KEYWORD FREQUENCY REPORT
+Generated: 2025-08-29 22:50:16
+With Singular/Plural Normalization
+============================================================
+
+NORMALIZATION SUMMARY:
+----------------------------------------
+Total keyword combinations normalized: 19
+
+NORMALIZATION DETAILS:
+----------------------------------------
+
+math (total: 3,083)
+  - maths: 1,858
+  - maths: 748
+  - maths: 209
+  - maths: 124
+  - maths: 39
+  - maths: 56
+  - maths: 49
+
+thank (total: 4,293)
+  - thanks: 2,377
+  - thanks: 658
+  - thanks: 443
+  - thanks: 214
+  - thanks: 145
+  - thanks: 54
+  - thanks: 150
+  - thanks: 123
+  - thanks: 34
+  - thanks: 95
+
+video (total: 349)
+  - videos: 281
+  - videos: 68
+
+
+TOP 50 AGGREGATED KEYWORDS:
+----------------------------------------
+  1. math                   10,218 occurrences
+  2. thank                   8,153 occurrences
+  3. video                   3,407 occurrences
+  4. great                   1,251 occurrences
+  5. answer                  1,208 occurrences
+  6. just                    1,199 occurrences
+  7. understand              1,055 occurrences
+  8. exam                      679 occurrences
+  9. question                  671 occurrences
+ 10. really                    620 occurrences
+ 11. school                    579 occurrences
+ 12. sir                       281 occurrences
+ 13. test                      180 occurrences
+ 14. geometry                  129 occurrences
+ 15. solution                   75 occurrences
+ 16. thanks sir                 75 occurrences
+ 17. mathematic                 72 occurrences
+ 18. number                     57 occurrences
+ 19. 100                        55 occurrences
+ 20. theorem                    42 occurrences
+ 21. 20                         40 occurrences
+ 22. men                        36 occurrences
+ 23. 60                         36 occurrences
+ 24. algebra                    36 occurrences
+ 25. bio                        33 occurrences
+ 26. helpful                    33 occurrences
+ 27. proof                      32 occurrences
+ 28. gödel                      31 occurrences
+ 29. 12                         30 occurrences
+ 30. 55                         30 occurrences
+ 31. 11                         29 occurrences
+ 32. 26                         29 occurrences
+ 33. 19                         29 occurrences
+ 34. ml                         27 occurrences
+ 35. ai                         26 occurrences
+ 36. 21                         24 occurrences
+ 37. 16                         23 occurrences
+ 38. civil                      23 occurrences
+ 39. civil engineer             23 occurrences
+ 40. 2b                         21 occurrences
+ 41. 15                         20 occurrences
+ 42. india                      19 occurrences
+ 43. duolingo                   19 occurrences
+ 44. bearing                    18 occurrences
+ 45. engineering                15 occurrences
+ 46. vector                     15 occurrences
+ 47. merry                      12 occurrences
+ 48. christma                    9 occurrences
+ 49. merry christma              8 occurrences

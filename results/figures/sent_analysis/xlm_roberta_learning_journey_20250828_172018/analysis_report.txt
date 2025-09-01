@@ -1,0 +1,24 @@
+XLM-RoBERTa Enhanced Learning Journey Analysis
+==============================================
+Generated: 2025-08-28 17:20:19
+
+Dataset Statistics:
+- Total Comments: 35,438
+- Comments with Negative-to-Positive Progression: 5,620 (15.86%)
+  (Includes all types of learning progressions)
+
+Sentiment Distribution:
+- Positive: 20,530 (57.9%)
+- Neutral: 11,236 (31.7%)
+- Negative: 3,672 (10.4%)
+
+Progression Type Breakdown:
+- Single Sentence: 19,787 (55.8%)
+- Stable: 6,713 (18.9%)
+- Simple Transition: 5,323 (15.0%)
+- Complex Progression: 2,447 (6.9%)
+- Strong Transformation: 1,168 (3.3%)
+
+Note: The 'learning_journey' boolean column (5,620) captures ALL negative-to-positive
+progressions, while 'Strong Transformation' (1,168) represents only the most
+explicit, pronounced learning breakthroughs with multiple sentiment transitions.

@@ -1,0 +1,120 @@
+VIDEO ENGAGEMENT AND IDENTITY SENTIMENT ANALYSIS REPORT
+Generated: 2025-08-30 14:12:04
+================================================================================
+
+METHODOLOGY:
+• Weighted Engagement Score = Like Rate + (Comment Rate × 10)
+• Minimum view threshold: 1000 views (consistent with other analysis scripts)
+• Sentiment analysis using XLM-RoBERTa Enhanced (74% accuracy)
+• Identity queries based on actual dataset search terms
+
+DATASET OVERVIEW:
+• Total videos analyzed: 2,266
+• Identity queries found: 5 of 7 searched
+
+TOP 15 VIDEOS BY ENGAGEMENT SCORE:
+================================================================================
+1. TWIST DRILL GEOMETRY #978 huge teaching aid tubalcain
+   Video ID: 42B_tazTUoc
+   Search Query: geometry_help
+   Weighted Engagement Score: 17.7
+   Total Comments: 40 | Views: 10,877
+   Sentiment: Positive 87.5% | Neutral 10.0% | Negative 2.5%
+
+2. Maths Revision Class | Maths Previous Year | SSC Cgl Mains Maths Questions | CGl 2023 Mains Maths
+   Video ID: IbHpF0mYG50
+   Search Query: maths_revision
+   Weighted Engagement Score: 14.2
+   Total Comments: 3 | Views: 1,855
+   Sentiment: Positive 66.7% | Neutral 33.3% | Negative 0.0%
+
+3. 🔥 Trigonometric Ratios Trick 🔥 in Tamil #shortcut #maths #ssc #rrb #tnpsc #ibps #aptitude #mathhacks
+   Video ID: 6yKMfg5fMIw
+   Search Query: ratios_lesson
+   Weighted Engagement Score: 13.9
+   Total Comments: 1 | Views: 5,940
+   Sentiment: Positive 100.0% | Neutral 0.0% | Negative 0.0%
+
+4. Astrophysicist Attempts a 10-year-old's Math Homework that BROKE the Internet
+   Video ID: 0fdCakYI8yU
+   Search Query: year_10_math
+   Weighted Engagement Score: 13.3
+   Total Comments: 13 | Views: 1,810
+   Sentiment: Positive 38.5% | Neutral 30.8% | Negative 30.8%
+
+5. India's Supremacy in Maths ♾️🇮🇳 #shorts #indian
+   Video ID: ogSeTnx0j_s
+   Search Query: maths_history
+   Weighted Engagement Score: 13.1
+   Total Comments: 22 | Views: 481,444
+   Sentiment: Positive 45.5% | Neutral 50.0% | Negative 4.5%
+
+6. SSC CGL Maths | SSC CGL 2025 | SSC CGL Maths Books | SSC CGL Math Book #shorts #ssccgl #ssc #sscexam
+   Video ID: IJAO6tJeHMw
+   Search Query: math_important
+   Weighted Engagement Score: 12.3
+   Total Comments: 30 | Views: 49,519
+   Sentiment: Positive 70.0% | Neutral 23.3% | Negative 6.7%
+
+7. Math is Hard for Everyone
+   Video ID: n3kIPsO0Qv8
+   Search Query: math_hard
+   Weighted Engagement Score: 12.6
+   Total Comments: 45 | Views: 8,911
+   Sentiment: Positive 57.8% | Neutral 33.3% | Negative 8.9%
+
+8. Study One Night Before Exam! #shortsindia #millionairemindset #viralvideo
+   Video ID: RevLTvCWLgQ
+   Search Query: math_exam
+   Weighted Engagement Score: 12.5
+   Total Comments: 40 | Views: 4,161,889
+   Sentiment: Positive 37.5% | Neutral 55.0% | Negative 7.5%
+
+
+IDENTITY-RELATED QUERIES ANALYSIS:
+================================================================================
+
+Query: Girls And Math
+  • Total Comments: 222
+  • Unique Videos: 11
+  • Learning Journeys: 31 (14.0%)
+  • Sentiment: Positive 31.1% | Neutral 30.6% | Negative 38.3%
+
+Query: Diversity Mathematics
+  • Total Comments: 82
+  • Unique Videos: 12
+  • Learning Journeys: 11 (13.4%)
+  • Sentiment: Positive 51.2% | Neutral 26.8% | Negative 22.0%
+
+Query: Math Stereotypes
+  • Total Comments: 243
+  • Unique Videos: 7
+  • Learning Journeys: 42 (17.3%)
+  • Sentiment: Positive 43.2% | Neutral 38.3% | Negative 18.5%
+
+Query: Mathematics Society
+  • Total Comments: 85
+  • Unique Videos: 15
+  • Learning Journeys: 11 (12.9%)
+  • Sentiment: Positive 34.1% | Neutral 36.5% | Negative 29.4%
+
+Query: Maths For Everyone
+  • Total Comments: 276
+  • Unique Videos: 10
+  • Learning Journeys: 48 (17.4%)
+  • Sentiment: Positive 48.2% | Neutral 37.3% | Negative 14.5%
+
+QUERIES NOT FOUND IN DATASET:
+women_in_maths, maths_culture
+
+
+KEY FINDINGS:
+================================================================================
+• Average positive sentiment in identity queries: 41.6%
+• Average negative sentiment in identity queries: 24.5%
+• Average learning journey rate in identity queries: 15.0%
+
+DATA SOURCES:
+• Enhanced comments: results/models/sentiment_analysis/xlm_roberta_clean_20250816_132139/enhanced_comments.csv
+• Analysis method: XLM-RoBERTa Enhanced with learning journey detection
+• Engagement metric: Weighted score (Like Rate + Comment Rate × 10) where comments valued 10x more than likes

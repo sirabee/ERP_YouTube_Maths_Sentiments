@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "mathematics instructor"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:30
+Query: mathematics instructor
+Safe Query Name: mathematics_instructor
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 86
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 86 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 22 comments): school, teacher, just, math, problem, high, high school, teach
+  2. Topic  1 ( 21 comments): math, problems, word, just, watermelons, math problems, objects, apples
+  3. Topic  2 ( 18 comments): answer, 11, question, 11 20, 20, grade question, seven, hoodie
+  4. Topic  3 ( 13 comments): method, fractions, maths, need, numerator, teacher, men, cute
+  5. Topic  4 ( 12 comments): great, helpful, mam, great mam, ma, easy, nice job, thankyou understand
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_mathematics_instructor/
+- Data: data/data_with_topics_mathematics_instructor.csv
+- Topic Info: data/topic_info_mathematics_instructor.csv
+- Visualizations: visualizations/*_mathematics_instructor.*
+
+This analysis provides optimized topic discovery for the search query "mathematics instructor" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

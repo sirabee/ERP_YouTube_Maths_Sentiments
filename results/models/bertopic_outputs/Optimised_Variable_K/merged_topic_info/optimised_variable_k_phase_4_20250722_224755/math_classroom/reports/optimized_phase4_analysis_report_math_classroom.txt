@@ -1,0 +1,49 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "math classroom"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:32
+Query: math classroom
+Safe Query Name: math_classroom
+Clustering Method: K-means with K=4 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 62
+- Optimal K Value: 4
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 4 (K-means K=4)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 62 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 26 comments): math, teaching, teacher, students, thank, kids, good, play
+  2. Topic  1 ( 17 comments): numbers, multiply, method, answer, wrong, multiplication, using, 100
+  3. Topic  2 ( 10 comments): thanks, lot, thanks lot, great, great thank, lot great, locks, sharing
+  4. Topic  3 (  9 comments): africa, method, chinese, indian, japanese, way, thanks, selling method
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=4, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=4
+This configuration uses query-specific K=4 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_math_classroom/
+- Data: data/data_with_topics_math_classroom.csv
+- Topic Info: data/topic_info_math_classroom.csv
+- Visualizations: visualizations/*_math_classroom.*
+
+This analysis provides optimized topic discovery for the search query "math classroom" 
+using K-means clustering with K=4 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

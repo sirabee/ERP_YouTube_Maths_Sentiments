@@ -1,0 +1,189 @@
+{
+  "total_samples": 200,
+  "timestamp": "20250816_153905",
+  "model_name": "youtube_bert",
+  "model_details": {
+    "model_path": "rahulk98/bert-finetuned-youtube_sentiment_analysis",
+    "aggregation_method": "final_third_weighting_with_learning_journey_detection",
+    "features": [
+      "spacy_sentence_segmentation",
+      "learning_journey_detection",
+      "final_third_weighting",
+      "negative_to_positive_progression"
+    ]
+  },
+  "sentiment_agreement": {
+    "accuracy": 0.73,
+    "matches": 146,
+    "match_rate": 0.73,
+    "cohens_kappa": 0.529,
+    "macro_f1": 0.6178,
+    "weighted_f1": 0.7406
+  },
+  "learning_journey_agreement": {
+    "accuracy": 0.79,
+    "matches": 158,
+    "match_rate": 0.79,
+    "cohens_kappa": 0.137
+  },
+  "sentiment_distribution": {
+    "manual_annotations": {
+      "neutral": 116,
+      "positive": 74,
+      "negative": 10
+    },
+    "model_predictions": {
+      "positive": 93,
+      "neutral": 86,
+      "negative": 21
+    }
+  },
+  "learning_journey_distribution": {
+    "manual_annotations": {
+      "no": 187,
+      "yes": 13
+    },
+    "model_predictions": {
+      "false": 159,
+      "true": 41
+    }
+  },
+  "detailed_sentiment_metrics": {
+    "positive": {
+      "precision": 0.6989247311827957,
+      "recall": 0.8783783783783784,
+      "f1_score": 0.7784431137724551,
+      "support": 74.0
+    },
+    "neutral": {
+      "precision": 0.8837209302325582,
+      "recall": 0.6551724137931034,
+      "f1_score": 0.7524752475247525,
+      "support": 116.0
+    },
+    "negative": {
+      "precision": 0.23809523809523808,
+      "recall": 0.5,
+      "f1_score": 0.3225806451612903,
+      "support": 10.0
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "positive",
+      "neutral",
+      "negative"
+    ],
+    "matrix": [
+      [
+        65,
+        7,
+        2
+      ],
+      [
+        26,
+        76,
+        14
+      ],
+      [
+        2,
+        3,
+        5
+      ]
+    ]
+  },
+  "model_confidence_stats": {
+    "mean": 0.9237,
+    "std": 0.1648,
+    "min": 0.3333,
+    "max": 1.0
+  },
+  "progression_type_distribution": {
+    "single_sentence": 122,
+    "stable": 37,
+    "simple_transition": 22,
+    "complex_progression": 12,
+    "learning_journey": 7
+  },
+  "disagreement_analysis": {
+    "total_disagreements": 54,
+    "disagreement_rate": 27.0,
+    "disagreement_patterns": {
+      "negative_to_neutral": 3,
+      "negative_to_positive": 2,
+      "neutral_to_negative": 14,
+      "neutral_to_positive": 26,
+      "positive_to_negative": 2,
+      "positive_to_neutral": 7
+    },
+    "disagreement_examples": {
+      "negative_to_neutral": {
+        "count": 3,
+        "percentage": 1.5,
+        "examples": [
+          "I’m just a girl ... and an engineer and a program manager and a wife and a mother. I use lots of math, none of it girl.",
+          "As a representative of BMA (Boy math association) I can confirm this man is a graduate of our campaign and speaking gas.",
+          "As a mathematician I can confirm that this is how women and men do math"
+        ]
+      },
+      "negative_to_positive": {
+        "count": 2,
+        "percentage": 1.0,
+        "examples": [
+          "Thank you I had trouble with girl math nice know somebody who actually knows this topic and actively explains it with high details",
+          "This is boy math at peak performance 💀"
+        ]
+      },
+      "neutral_to_negative": {
+        "count": 14,
+        "percentage": 7.0,
+        "examples": [
+          "question is wrong. There are two angle BPC.",
+          "I didnt understand how we knew that triangle boc is isosceles",
+          "My school had those timed math tests too. But instead of stickers, anyone who finished with all right answers in one minute either got eat outside for lunch or got extra recess time. I don't think I finished on time once. This isolated from friends and showed that I wasn't smart. I struggled in other areas too. I literally couldn't read until my mom single handedly taught in 3rd grade (now reading is a favorite hobby). I have AHDH, dyslexia, and math dyslexia (I have no clue how spell technical name), but none of those were caught or even considered until adulthood when I put in effort find answers. So I spent my entire early years thinking I was stupid, even though I was actually a smart kid. I completed first draft of a whole novel at age 14 and played multiple instruments (making top in my state on one) in high school. I was smart. But they didn't see that. When I got older, I actually understood algebra better than my peers. Everyone complained about letters, but for whatever reason it clicked in my brain a lot of time. I still struggled, but I was one of 5 kids in my entire school get top scores on state test. Geometry was hell. I didn't understand at all and barely made it by. Even in algebra, where my math skills shined, I couldn't do anything in my head. I had write down every single step, even ones that most of my peers could do in their heads. I got comments about how much paper I wasted because kids are cruel. It's taken years, and I'm still trying unlearn all of that negative stuff. My teachers told over and over that I wouldn't have a calculator with everyday. I understand it was a different time, but they were also super wrong. So who cares if I can't do math mentally. Or when I can it's in some weird way that everyone says is stupid and more complicated than how they were taught? As long as I have right answer (or close enough not hurt anyone) then who cares how I got there?"
+        ]
+      },
+      "neutral_to_positive": {
+        "count": 26,
+        "percentage": 13.0,
+        "examples": [
+          ", if your teaching in english, it will be very helpful. atleast can u add captioons in english",
+          "I'd say what separates a great programmer from an average one is always be willing learn what you need in order succeed. Creativity and resourcefulness are two greatest qualities in programming.",
+          "Smith’s story is an inspiration all of math hobbyists outside of a formal academic environment!"
+        ]
+      },
+      "positive_to_negative": {
+        "count": 2,
+        "percentage": 1.0,
+        "examples": [
+          "Thank you , i'm a physics major taking math courses and i find myself trying micromanage every part of math and getting frustrated. Taking a break is a definite must, it stops you from burning out or getting as frustrated",
+          "Damn if he was my teacher I would never say I hate math or skip school"
+        ]
+      },
+      "positive_to_neutral": {
+        "count": 7,
+        "percentage": 3.5,
+        "examples": [
+          "Easiest chapter of class 11 th maths 👍👍",
+          "excellent video. Thank you. just a small piece of information for those who are doing hands-on: 1. Excel 2019, 2016, and earlier do not support dynamic array formulas, so UNIQUE function is not available in these versions. you can use advanced filter for same",
+          "I wish you were my math teacher, because when you teach, I get it right away lol"
+        ]
+      }
+    }
+  },
+  "performance_summary": {
+    "primary_metric": "sentiment_accuracy",
+    "primary_score": 0.73,
+    "benchmark_comparison": {
+      "twitter_roberta_accuracy": 0.37,
+      "improvement_over_twitter_roberta": 0.36
+    }
+  },
+  "methodology_notes": {
+    "matching_method": "exact_text_matching",
+    "preprocessing": "whitespace_normalization_and_lowercase",
+    "evaluation_date": "2025-08-16",
+    "code_version": "youtube_bert_sentence_analysis",
+    "aggregation_confidence": 0.9
+  }
+}

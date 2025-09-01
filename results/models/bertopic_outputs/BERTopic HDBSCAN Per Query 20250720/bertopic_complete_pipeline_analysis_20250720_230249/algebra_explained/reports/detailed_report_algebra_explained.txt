@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'algebra explained' ---
+
+Generated on: 2025-07-20 23:03:08
+Total documents analyzed: 965
+Topics discovered: 2
+Noise (unassigned documents): 14 (1.45%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_algebra_video_thanks_understand (917 comments)
+  Representative Comments:
+    - I'm 42 and just about take Civil Service Exam so here I am. I enjoyed it when I was in Elementary & High School but I already forgot about it. This vi...
+    - Thanks so much mr J I didn’t really understand this until I found your video my test is tomorrow thanks so much!...
+    - OMG THANK YOU!!! i was struggling a lot in algebra and no one helped and then I found this video and i understand it now. THANK YOUUU❤❤...
+
+Topic 1: 1_india_knowledge_algebra_baghdad (34 comments)
+  Representative Comments:
+    - Little knowledge is dangerous.. this is what is communicated here.. Arabs learned algebra in India and translated in Arabic.....
+    - And did its neighbor India was just a audience? knowledge of algebra, trigonometry astrology came from India. Ppl from Africa continent learned it for...
+    - Either he doesn't know facts or just chose ignore. Mathematics was taken middle east from India. book al-jabar was written based on knowledge learned ...

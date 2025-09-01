@@ -1,0 +1,56 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths history"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:10
+Query: maths history
+Safe Query Name: maths_history
+Clustering Method: K-means with K=11 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 298
+- Optimal K Value: 11
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 11 (K-means K=11)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 298 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 45 comments): great, video, videos, thanks, work, learn, thank, content
+  2. Topic  1 ( 34 comments): engineering, method, science, used, engineering method, video, scientific, engineer
+  3. Topic  2 ( 31 comments): thank, ma, mathematics, presentation, video, mathematics thank, mam, making
+  4. Topic  3 ( 30 comments): algebra, al, india, arabs, al khwarizmi, khwarizmi, credit, indian
+  5. Topic  4 ( 29 comments): invented, invented math, maths, math, mathematics, jewish, mandelbrot, set
+  6. Topic  5 ( 28 comments): math, maths, hate, school, use, teaching, highschool, created math
+  7. Topic  6 ( 23 comments): complex, numbers, imaginary, complex numbers, imaginary numbers, number, understanding, math
+  8. Topic  7 ( 23 comments): euler, ln, euler formula, formula, area, really, explained, log
+  9. Topic  8 ( 22 comments): base, 12, base 12, counting, half, 10, use, systems
+ 10. Topic  9 ( 21 comments): jesus, works, brain, don, fractal geometry, fractal, history, read
+ 11. Topic 10 ( 12 comments): understand, zero, explain, school, understand language, kitab, language, words
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=11, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=11
+This configuration uses query-specific K=11 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_history/
+- Data: data/data_with_topics_maths_history.csv
+- Topic Info: data/topic_info_maths_history.csv
+- Visualizations: visualizations/*_maths_history.*
+
+This analysis provides optimized topic discovery for the search query "maths history" 
+using K-means clustering with K=11 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

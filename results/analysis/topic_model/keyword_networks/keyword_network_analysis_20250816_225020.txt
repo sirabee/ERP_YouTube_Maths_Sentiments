@@ -1,0 +1,72 @@
+================================================================================
+KEYWORD NETWORK ANALYSIS - HIERARCHICAL CENTRALITY
+================================================================================
+
+Analysis Date: 2025-08-16 22:50:21
+Network Size: 586 keywords, 2099 connections
+Communities Detected: 27
+Network Density: 0.0122
+
+==================================================
+TOP 20 MOST CENTRAL KEYWORDS (HIERARCHICAL RANKING)
+==================================================
+Rank | Keyword | Composite Score | Degree | PageRank | Betweenness
+---------------------------------------------------------------------------
+   1 | math            |        0.9845 |  0.328 |   0.0652 |      0.2433
+   2 | video           |        0.6450 |  0.173 |   0.0323 |      0.1041
+   3 | thank           |        0.6435 |  0.140 |   0.0361 |      0.0639
+   4 | maths           |        0.5409 |  0.207 |   0.0291 |      0.1122
+   5 | thanks          |        0.4626 |  0.108 |   0.0253 |      0.0291
+   6 | just            |        0.4223 |  0.133 |   0.0173 |      0.0687
+   7 | answer          |        0.3797 |  0.113 |   0.0229 |      0.1186
+   8 | great           |        0.3593 |  0.079 |   0.0128 |      0.0463
+   9 | understand      |        0.3331 |  0.085 |   0.0135 |      0.0164
+  10 | question        |        0.3172 |  0.099 |   0.0123 |      0.0844
+  11 | teacher         |        0.3011 |  0.065 |   0.0101 |      0.0175
+  12 | mathematics     |        0.2979 |  0.096 |   0.0094 |      0.0661
+  13 | school          |        0.2965 |  0.085 |   0.0101 |      0.0192
+  14 | exam            |        0.2963 |  0.092 |   0.0126 |      0.0351
+  15 | videos          |        0.2905 |  0.053 |   0.0095 |      0.0112
+  16 | really          |        0.2808 |  0.053 |   0.0096 |      0.0014
+  17 | sir             |        0.2748 |  0.055 |   0.0098 |      0.0145
+  18 | problem         |        0.2574 |  0.055 |   0.0061 |      0.0740
+  19 | good            |        0.2368 |  0.062 |   0.0057 |      0.0197
+  20 | easy            |        0.2314 |  0.034 |   0.0026 |      0.0527
+
+==================================================
+CENTRALITY LEADERS BY METRIC
+==================================================
+Degree Centrality: math (0.3282)
+Pagerank Centrality: math (0.0652)
+Betweenness Centrality: math (0.2433)
+
+==================================================
+KEYWORD COMMUNITIES (TOP 5 LARGEST)
+==================================================
+
+Community 2 (157 keywords):
+  Top keywords: math (0.984), just (0.422), teacher (0.301), mathematics (0.298), school (0.297), good (0.237), learn (0.227), time (0.215)
+
+Community 20 (122 keywords):
+  Top keywords: answer (0.380), question (0.317), 10 (0.214), ma (0.194), 20 (0.179), 12 (0.177), paper (0.176), 100 (0.175)
+
+Community 1 (75 keywords):
+  Top keywords: video (0.645), thank (0.644), thanks (0.463), great (0.359), understand (0.333), videos (0.291), really (0.281), sir (0.275)
+
+Community 3 (66 keywords):
+  Top keywords: maths (0.541), mam (0.215), data (0.211), got (0.202), science (0.199), class (0.183), love (0.182), liye (0.164)
+
+Community 6 (26 keywords):
+  Top keywords: exam (0.296), day (0.180), watching (0.172), university (0.151), hard (0.151), students (0.148), questions (0.141), board (0.138)
+
+==================================================
+NETWORK INSIGHTS
+==================================================
+
+Hub Keywords (highly connected): math, video, thank, maths, thanks, just, answer, great, understand, question
+Bridge Keywords (connect communities): math, video, thank, maths, thanks, just, answer, great, understand, question
+
+Most Influential Keyword: 'math'
+  - Composite Centrality: 0.9845
+  - Direct Connections: 192
+  - PageRank Score: 0.0652

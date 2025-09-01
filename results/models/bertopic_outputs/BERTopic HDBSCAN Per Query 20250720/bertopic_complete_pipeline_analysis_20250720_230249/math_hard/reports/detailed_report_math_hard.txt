@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'math hard' ---
+
+Generated on: 2025-07-20 23:03:54
+Total documents analyzed: 435
+Topics discovered: 2
+Noise (unassigned documents): 387 (88.97%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_hard_class_know (387 comments)
+  Representative Comments:
+    - Thank you so much for making this video. It made feel better that I'm not only one who thinks math is hard. I always used think that maybe I'm not goo...
+    - Why is math hard? Because teachers can't teach it. I've found math teachers on YouTube, that can teach advanced math....
+    - Math isn't hard. Most math teachers do a terrible job. I've proven this, and I've seen others do it as well. There are better ways teach math. I would...
+
+Topic 1: 1_175_answer_answer 175_got (48 comments)
+  Representative Comments:
+    - answer is 175...
+    - Answer: 175 7/7 🙂...
+    - 🎉7/7(last answer is 175) 😊...

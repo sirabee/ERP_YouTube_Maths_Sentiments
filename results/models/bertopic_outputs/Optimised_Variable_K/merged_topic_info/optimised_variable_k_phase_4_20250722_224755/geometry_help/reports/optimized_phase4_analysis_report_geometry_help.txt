@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "geometry help"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:42
+Query: geometry help
+Safe Query Name: geometry_help
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 575
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 575 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (186 comments): test, grade, math, thank, maths, question, teacher, easy
+  2. Topic  1 (152 comments): great, thanks, thank, video, drill, teaching, really, school
+  3. Topic  2 (151 comments): geometry, thank, eoc, video, year, algebra, im, differential geometry
+  4. Topic  3 ( 48 comments): 360, angle, bpc, 20, 80, 2x, angles, 40
+  5. Topic  4 ( 38 comments): 15, 60, 100, 10, answer, times, number, 10 15
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_geometry_help/
+- Data: data/data_with_topics_geometry_help.csv
+- Topic Info: data/topic_info_geometry_help.csv
+- Visualizations: visualizations/*_geometry_help.*
+
+This analysis provides optimized topic discovery for the search query "geometry help" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

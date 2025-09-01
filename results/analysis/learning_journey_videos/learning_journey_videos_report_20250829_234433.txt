@@ -1,0 +1,425 @@
+LEARNING JOURNEY VIDEO ANALYSIS REPORT
+Generated: 2025-08-29 23:44:33
+================================================================================
+
+OVERVIEW:
+• Analysis based on XLM-RoBERTa Enhanced sentiment analysis (74% accuracy)
+• Total videos analyzed: 15
+• Learning journey detection method: Negative-to-positive sentiment progression
+• Comments analyzed using domain-trained YouTube sentiment model
+
+VIDEOS WITH MOST LEARNING JOURNEYS:
+================================================================================
+
+1. Dyscalculia Test
+   Video ID: YUw-8JfV58U
+   Search Query: discalculia
+   Learning Journeys Detected: 39
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "Yes, I feel all of these :( and people always think it's because of lack of education. Lies. I've studied math all my life and memorized formulas and always seem forget them always. We are smart in our own ways may we never forget that. In fact, we work twice as hard because of our difference. Th..."
+   • Likes: 1229 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2021-10-07
+
+   Comment 2:
+   "Yes, so much! I was a straight A student except for math in which I got Cs and Ds. Somehow my teachers and parents blamed for being “lazy” or not caring about my grades, even though in all other subjects I was excelling. I’m 41 now, have a Masters in History and a successful career as an ESL teac..."
+   • Likes: 304 | Confidence: 0.700
+   • Progression Type: complex_progression
+   • Published: 2023-01-04
+
+   Comment 3:
+   "When I learnt that dance moves were related, I was floored. I got very emotional in a swing dancing class because I was embarrassed I just couldn't make sense of steps as quickly as everyone else. I'm now realising that all my successes (including academic because I have ADHD, and social because ..."
+   • Likes: 267 | Confidence: 0.700
+   • Progression Type: complex_progression
+   • Published: 2021-12-03
+
+
+2. Essential Mathematics For Aspiring Game Developers
+   Video ID: DPfxjQ6sqrc
+   Search Query: math_important
+   Learning Journeys Detected: 37
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "Due some IRL scheduling issues, my videos are a bit out of order. Anyway, I hope this helps all those that have asked about "maths for games programming" over last few weeks. Take care, stay safe!"
+   • Likes: 432 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2020-06-13
+
+   Comment 2:
+   "For first time in my life math actually made sense, and I enjoyed every second of video. Thank you so much for actually sparking my interest in maths."
+   • Likes: 261 | Confidence: 0.700
+   • Progression Type: stable
+   • Published: 2020-11-18
+
+   Comment 3:
+   "I think it's impossible be a programmer without liking math. Math is logic, programming is logic. thing is high school math is a bunch of formulas. People don't see logic behind it, and that's why I think aspiring programmers hate or fear math, but once you start programming, you inevitably start..."
+   • Likes: 20 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2020-06-14
+
+
+3. ASMR Solving math exam questions with an overhead projector
+   Video ID: qgZAajQV3nM
+   Search Query: math_exam
+   Learning Journeys Detected: 36
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "Oh my. If I had this kind of math classes at school, l would be a "math genius" nowadays. This is so, sooo good."
+   • Likes: 737 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2022-01-07
+
+   Comment 2:
+   "Toby! I'm a student of grade 9 and I'm so interested in physics and astronomy whenever I watch your videos about physics and astronomy those videos teach something new every time when I watch them!! Thanks for sharing your knowledge with you're my favorite youTuber!"
+   • Likes: 171 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2022-01-07
+
+   Comment 3:
+   "I'm a Turkish student whom is also preparing for YKS exam. I think it's a lovely coincidence of you explain solutions of two Geometry questions in detail while I was searching for their answers lol. I didn't have in mind before I clicked onto this video though :Dd Thanks a lot!"
+   • Likes: 69 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2022-03-04
+
+
+4. We Need To Talk About Self-Studying Mathematics
+   Video ID: cwTJxkdRzH8
+   Search Query: mathematics_study
+   Learning Journeys Detected: 36
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "You’ve inspired so much through last 2 years of my life. I self taught myself linear algebra and now I’m gonna study Vector Calculus book you showed in your videos!!"
+   • Likes: 195 | Confidence: 0.700
+   • Progression Type: stable
+   • Published: 2024-06-13
+
+   Comment 2:
+   "I'm 65 years old and have just started self study Blitzer College Algebra text book based on your recommendation. I studied some math in college 45 years ago (1 year of Calculus and 1 yr statistics), but I am studying algebra again as one of my techniques keep my brain's neuroplasticity as much a..."
+   • Likes: 112 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2024-06-13
+
+   Comment 3:
+   "You're reason I considered writing a hard mathematics exam and oh boy am i grateful, i did not just pass exam but got placed in top 2 students, i really appreciate these videos"
+   • Likes: 70 | Confidence: 0.700
+   • Progression Type: single_sentence
+   • Published: 2024-06-13
+
+
+5. Where do Sin, Cos and Tan Actually Come From - Origins of Trigonometry - Part 1
+   Video ID: uMfnJ6TJinc
+   Search Query: trigonometry_explained
+   Learning Journeys Detected: 35
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "I am a 66 years old person , I wish some one told this then . It is so simple however way we were taught we never understood what you explained . Now I will teach my grandchildren through this vedio . Well done my boy May god bless you"
+   • Likes: 368 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2023-09-27
+
+   Comment 2:
+   "After thirty years, this is first time that I finally understand WTF are sin and cos. This is so weird, in order understand something as simple as this, we have waste many years of struggling. I really appreciate what you've done 🙏♥"
+   • Likes: 322 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2023-01-08
+
+   Comment 3:
+   "I would love more teachers telling why this kind of stuff works and why it's useful instead of just teaching you how do it, it turns it from daunting actually interesting"
+   • Likes: 72 | Confidence: 0.700
+   • Progression Type: single_sentence
+   • Published: 2023-09-27
+
+
+6. 05 - Sine and Cosine - Definition & Meaning - Part 1 - What is Sin(x) & Cos(x) ?
+   Video ID: vuoNyvMvDtA
+   Search Query: trigonometry_explained
+   Learning Journeys Detected: 35
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "I'm a happy 75 year old. Thought I was math-hopeless. I got this lecture totally. Wish I seen this 50 years ago."
+   • Likes: 1517 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2020-07-18
+
+   Comment 2:
+   "I’m pretty sure most observers feel that they would have had not only a better understanding of subject, but ,also would have enjoyed lesson and presentation. This gentleman was born teach. Humble and erudite..Bravo!"
+   • Likes: 114 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2020-09-01
+
+   Comment 3:
+   "If a man keeps interested over 40 minutes in something that I have no idea what’s he’s talking about it’s because man knows what’s he’s talking about and suddenly trigonometry feels right. My respects this teacher."
+   • Likes: 93 | Confidence: 0.700
+   • Progression Type: stable
+   • Published: 2020-12-20
+
+
+7. Stop Trying to Understand Math, Do THIS Instead
+   Video ID: lt1nUfskq9E
+   Search Query: math_hard
+   Learning Journeys Detected: 35
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "I was never particularly good at math my whole life. But I focused on what I could do and today I am PhD in engineering. You can do it guys."
+   • Likes: 8231 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2022-05-07
+
+   Comment 2:
+   "Math has broken down tears in school. I’ve struggle with it my whole life. I needed hear this. Maybe it will help get confidence back get some degrees."
+   • Likes: 1058 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2022-12-23
+
+   Comment 3:
+   "I am studying mathematics with an interest in physics. However, math is presently beyond my understanding. I have been hitting a road block with derivatives of trigonometric functions and identities. But inconsistent study habits and back tracking review math concepts slowed down. Your advice jus..."
+   • Likes: 940 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2022-10-27
+
+
+8. Solving Two-Step Equations | Algebra Equations
+   Video ID: AP5MbH88cdo
+   Search Query: algebra_explained
+   Learning Journeys Detected: 34
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "Thank you! My teacher was so unclear about this and I really needed learn this and now I understand it."
+   • Likes: 324 | Confidence: 0.700
+   • Progression Type: stable
+   • Published: 2021-07-09
+
+   Comment 2:
+   "I’m in 7th grade but I have accelerated math so I have learn this and you teach it way better than my teacher"
+   • Likes: 110 | Confidence: 0.700
+   • Progression Type: single_sentence
+   • Published: 2020-10-28
+
+   Comment 3:
+   "Hello mr j I am in fifth grade and my dad would always make watch these but he passed away a week ago. Anyway is it ok if I still don’t get it and I’m in fifth grade?"
+   • Likes: 110 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2020-05-06
+
+
+9. "bad at math" is a myth
+   Video ID: k3bkNewAR5U
+   Search Query: university_maths
+   Learning Journeys Detected: 33
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "Damn, how much I resonate with this. I almost failed high school because of math. Luckily, I was decent at English (second language) and discovered Khan Academy. motivation from Sal Khan (his TED talks and Beauty of Algebra video) and gamified platform changed my world. Fast-forward today, and I'..."
+   • Likes: 142 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2022-08-15
+
+   Comment 2:
+   "I feel same way when people say they’re bad at art. There’s initial talent when it comes everything, but as with most things, it just takes a willingness learn and belief that you can improve"
+   • Likes: 103 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2022-08-15
+
+   Comment 3:
+   "You are an inspiration all of who secretly wanted achieve a dream but were told we didn’t have what it took. That we were stupid and told go away. I love that you put in hard work and learned what you needed despite opposition. You have my respect."
+   • Likes: 34 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2022-08-16
+
+
+10. Why Do Some People Learn Math So Fast
+   Video ID: qVm98V3Tjyw
+   Search Query: why_learn_maths
+   Learning Journeys Detected: 33
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "Interesting, what I also think is a very big factor is parenting. Some parents that know math expose their children it as early as possible and if kid shows some interest, he/she can get very much ahead of rest. Plus things that you learn at a very young age become very natural. And when you real..."
+   • Likes: 668 | Confidence: 0.700
+   • Progression Type: complex_progression
+   • Published: 2020-04-14
+
+   Comment 2:
+   "I understand idea that people need different amount of time understand concepts. However, I also think that environment that one grows up in can make a real impact. Some people grow up in an environment where they are supported in their schoolwork. For example, my dad had taken a lot of math in u..."
+   • Likes: 472 | Confidence: 0.700
+   • Progression Type: complex_progression
+   • Published: 2020-04-16
+
+   Comment 3:
+   "This video is wisdom. It doesn't come from a course or a book. It comes from lived life. I too am a slow learner and I've had hard time with math all my life. I've struggled with my "slow burn" because everybody seemed be natural talents at math through all my school life. I always thought that I..."
+   • Likes: 357 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2020-10-13
+
+
+11. why people hate math
+   Video ID: xvOkXXprG2g
+   Search Query: maths_anxiety
+   Learning Journeys Detected: 32
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   ""People hate math" And this is why I'm trying be a teacher who's actually good at their job"
+   • Likes: 2534 | Confidence: 0.700
+   • Progression Type: simple_transition
+   • Published: 2022-01-12
+
+   Comment 2:
+   "Math, by its nature, is extremely precise and unforgiving of mistakes. It is easy understand why people dislike working hard on a long math problem and still getting it wrong due making one small mistake in one of steps solve problem. However, I think that a bigger issue, based on my experience, ..."
+   • Likes: 2492 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2021-12-12
+
+   Comment 3:
+   "I have a friend who is better at computing mentally than so my friend would give random math question whenever im near them and expect answer right away. And whenever I stress out and tell them a wrong answer, they would laugh and tell "Its so simple??, my younger sibling could do that in 2 secon..."
+   • Likes: 1077 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2023-01-07
+
+
+12. Learn Mathematics from START to FINISH
+   Video ID: pTnEG_WGd2Q
+   Search Query: mathematics_study
+   Learning Journeys Detected: 32
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "biggest lie I’ve heard and believed for so long was idea that some people are born do math and some can’t, believing in this makes you stop trying because its as if it is entirely determined and out of your control. Going back basics and really starting from beginning will help, I never had right..."
+   • Likes: 2900 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2021-10-17
+
+   Comment 2:
+   "Math was always most difficult subject for in HS, but at same time it felt more fulfilling when I actually understood it."
+   • Likes: 2298 | Confidence: 0.700
+   • Progression Type: single_sentence
+   • Published: 2022-03-04
+
+   Comment 3:
+   "I am 53 years old and I have decided start studying again. I had no foundation growing up and lots people trying and holding down. Now I have gotten rid of dead weight, I am going start over from beginning and do it right and for myself. I am going try this method and ideas. whole concept of teac..."
+   • Likes: 2195 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2021-10-29
+
+
+13. How to self study pure math - a step-by-step guide
+   Video ID: byNaO_zn2fI
+   Search Query: mathematics_study
+   Learning Journeys Detected: 31
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "As a theoretical physics graduate student, I can strongly recommend textbook "Differential Geometry, Gauge theories, and Gravity" by Gockeler and Schucker understand differential geometry with just a physics undergraduate background, where book introduces but also applies this subject numerous ar..."
+   • Likes: 1284 | Confidence: 0.700
+   • Progression Type: complex_progression
+   • Published: 2021-12-24
+
+   Comment 2:
+   "This makes very happy. I studied comp sci at uni but have been trying learn some higher math on my own lately. specific resource recommendations are extremely valuable I consider this a Christmas gift!"
+   • Likes: 781 | Confidence: 0.700
+   • Progression Type: complex_progression
+   • Published: 2021-12-25
+
+   Comment 3:
+   "As someone who's doing a degree in mechanical engineering but has a very strong passion for pure math I very much appreciate this video, as well as yours and everyone else's free and amazing videos on many different math topics all across youtube. Keep up great quality!"
+   • Likes: 396 | Confidence: 0.700
+   • Progression Type: stable
+   • Published: 2021-12-24
+
+
+14. Multiply a Whole Number by a Decimal | Math with Mr. J
+   Video ID: tsOibhsgYoQ
+   Search Query: decimals_help
+   Learning Journeys Detected: 31
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "Thank you, online learning isn’t really working for but you just solved my problem!! Tysm"
+   • Likes: 403 | Confidence: 0.700
+   • Progression Type: single_sentence
+   • Published: 2020-10-29
+
+   Comment 2:
+   "Thank you so much, I was struggling, now I know how solve it 😁😁"
+   • Likes: 45 | Confidence: 0.700
+   • Progression Type: single_sentence
+   • Published: 2020-10-01
+
+   Comment 3:
+   "This was SO HELPFUL! I understand so much better of how multiply in general now. Thank you!"
+   • Likes: 26 | Confidence: 0.700
+   • Progression Type: stable
+   • Published: 2022-01-19
+
+
+15. The math study tip they are NOT telling you - Math Olympian
+   Video ID: ZfzCagkLhAs
+   Search Query: mathematics_study
+   Learning Journeys Detected: 31
+
+   REPRESENTATIVE LEARNING JOURNEY COMMENTS:
+   --------------------------------------------------
+   Comment 1:
+   "I highly recommend this video everyone who is struggling no matter in what field of study they are as I am not a math student, Im applying for design universities next year and these things are what I actually do (that's why Im highest scorer in whole class and not brag they are not even around Y..."
+   • Likes: 1531 | Confidence: 0.700
+   • Progression Type: stable
+   • Published: 2023-11-11
+
+   Comment 2:
+   "As someone who has gotten both F's and A's in math here's my take. Math is just rules, common sense/logic and consistency. Practice is more important than memorization and shortcuts(shortcuts as in ones that aren't related understanding material). For what caused fail is 2 things and funny enough..."
+   • Likes: 1034 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2023-11-20
+
+   Comment 3:
+   "I suffer with Dycalculia and ADHD, so I never was able catch up as a kid. This caused have no solid base. And in such a academic demanding country as Brazil, I thought I had no chances. Suddently, a girl who was in math olimpics team said that she actually wasnt a genius, she just liked math as a..."
+   • Likes: 321 | Confidence: 0.700
+   • Progression Type: learning_journey
+   • Published: 2023-11-15
+
+
+
+METHODOLOGY NOTES:
+================================================================================
+• Learning Journey Detection: Comments showing negative-to-positive sentiment progression
+• XLM-RoBERTa Model: AmaanP314/youtube-xlm-roberta-base-sentiment-multilingual
+• Validation: 74% agreement with manual annotations (200 sample validation)
+• Domain Training Impact: +36 percentage points over Twitter-trained models
+• Progression Types:
+  - simple_transition: Basic negative-to-positive change
+  - complex_progression: Multiple sentiment transitions within comment
+  - learning_journey: Explicit educational breakthrough patterns
+
+• Representative Comment Selection:
+  - Sorted by like_count (community validation) and model confidence
+  - Up to 3 examples per video for readability
+  - Comments truncated at 300 characters for report formatting
+
+SOURCE DATA:
+• File: results/models/sentiment_analysis/xlm_roberta_clean_20250816_132139/enhanced_comments.csv
+• Total Comments: 35,438
+• Learning Journey Comments: 5,620 (15.86%)
+• Analysis Date: August 16, 2025

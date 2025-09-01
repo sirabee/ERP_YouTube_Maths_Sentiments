@@ -1,0 +1,57 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "year 11 maths"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:32
+Query: year 11 maths
+Safe Query Name: year_11_maths
+Clustering Method: K-means with K=12 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 677
+- Optimal K Value: 12
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 12 (K-means K=12)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 677 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (119 comments): sir, class, thanks sir, math, question, 11th, ji, thanks
+  2. Topic  1 ( 81 comments): algebra, thank, function, functions, math, helped, just, years
+  3. Topic  2 ( 78 comments): exam, watching, tomorrow, day, day exam, exam tomorrow, legends, writing
+  4. Topic  3 ( 55 comments): video, helpful, thank, videos, helpful video, understand, really, thanks
+  5. Topic  4 ( 50 comments): understand, easy, explanation, easy understand, explained, thanks, clear, explanation easy
+  6. Topic  5 ( 48 comments): teach, teaching, teacher, lesson, understand, kevin, easy, study
+  7. Topic  6 ( 48 comments): maths, teacher, math, writing, online, best, paper, writing maths
+  8. Topic  7 ( 46 comments): videos, video, make, channel, thank, maths, ve, youtube
+  9. Topic  8 ( 44 comments): helpful, really helpful, helpful thank, really, thank helpful, thank, thanks, helpful thanks
+ 10. Topic  9 ( 42 comments): test, thank, teacher, understand, helped, thank teacher, helped thanks, attention
+ 11. Topic 10 ( 34 comments): 15, quadratic, square, equation, formula, quadratic formula, 6x, method
+ 12. Topic 11 ( 32 comments): thanks sir, thanks, sir thanks, sir, great, thanks thanks, god bless, bless
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=12, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=12
+This configuration uses query-specific K=12 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_year_11_maths/
+- Data: data/data_with_topics_year_11_maths.csv
+- Topic Info: data/topic_info_year_11_maths.csv
+- Visualizations: visualizations/*_year_11_maths.*
+
+This analysis provides optimized topic discovery for the search query "year 11 maths" 
+using K-means clustering with K=12 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

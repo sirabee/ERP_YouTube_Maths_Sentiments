@@ -1,0 +1,25 @@
+INTER-ANNOTATOR AGREEMENT REPORT
+============================================================
+Date: 2025-08-13 22:06:09
+Total annotations: 200
+
+COHEN'S KAPPA SCORES:
+----------------------------------------
+Sentiment:         0.534 (Moderate)
+Learning Journey:  0.413 (Moderate)
+Has Transition:    0.452 (Moderate)
+
+RAW AGREEMENT RATES:
+----------------------------------------
+Sentiment:         73.0%
+Learning Journey:  90.5%
+Has Transition:    91.0%
+
+INTERPRETATION GUIDE (Landis & Koch, 1977):
+----------------------------------------
+< 0.00:  Poor (less than chance)
+0.00-0.20: Slight agreement
+0.21-0.40: Fair agreement
+0.41-0.60: Moderate agreement
+0.61-0.80: Substantial agreement
+0.81-1.00: Almost perfect agreement

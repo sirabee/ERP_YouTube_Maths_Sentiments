@@ -1,0 +1,56 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "vectors tutorial"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:38
+Query: vectors tutorial
+Safe Query Name: vectors_tutorial
+Clustering Method: K-means with K=11 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 611
+- Optimal K Value: 11
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 11 (K-means K=11)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 611 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (101 comments): videos, video, great, thank, amazing, understand, making, excellent
+  2. Topic  1 ( 88 comments): explanation, easy, understand, thanks, easy understand, clear, explain, good
+  3. Topic  2 ( 73 comments): illustrator, tool, pen, tutorial, layer, pen tool, thanks, just
+  4. Topic  3 ( 72 comments): vectors, vector, product, kernel, dot, dot product, linear, algebra
+  5. Topic  4 ( 53 comments): thanks, helpful, thank, really, great, lot, informative, work
+  6. Topic  5 ( 52 comments): geometry, math, university, question, calculus, shot, 112, x3
+  7. Topic  6 ( 49 comments): tutorial, thank, tutorials, great tutorial, create, ve, great, tutorial thank
+  8. Topic  7 ( 35 comments): great video, video, great, thanks, video thank, amazing, video great, thank
+  9. Topic  8 ( 33 comments): embeddings, database, vector, vector database, data, documents, openai, use
+ 10. Topic  9 ( 31 comments): vna, rf, measure, network, test, nano, allowed, vnas
+ 11. Topic 10 ( 24 comments): inkscape, vectornator, mac, affinity, ipad, program, inkscape tutorial, buy
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=11, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=11
+This configuration uses query-specific K=11 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_vectors_tutorial/
+- Data: data/data_with_topics_vectors_tutorial.csv
+- Topic Info: data/topic_info_vectors_tutorial.csv
+- Visualizations: visualizations/*_vectors_tutorial.*
+
+This analysis provides optimized topic discovery for the search query "vectors tutorial" 
+using K-means clustering with K=11 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

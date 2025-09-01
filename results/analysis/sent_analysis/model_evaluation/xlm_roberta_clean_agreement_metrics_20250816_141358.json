@@ -1,0 +1,113 @@
+{
+  "total_samples": 200,
+  "timestamp": "20250816_141358",
+  "model_name": "xlm_roberta_clean",
+  "model_details": {
+    "model_path": "AmaanP314/youtube-xlm-roberta-base-sentiment-multilingual",
+    "aggregation_method": "enhanced_clean_with_contradiction_detection",
+    "features": [
+      "spacy_sentence_segmentation",
+      "contradiction_marker_detection",
+      "five_type_progression_classification",
+      "learning_journey_detection",
+      "simple_majority_voting"
+    ]
+  },
+  "sentiment_agreement": {
+    "accuracy": 0.74,
+    "matches": 148,
+    "match_rate": 0.74,
+    "cohens_kappa": 0.5606,
+    "macro_f1": 0.6357,
+    "weighted_f1": 0.7483
+  },
+  "learning_journey_agreement": {
+    "accuracy": 0.88,
+    "matches": 176,
+    "match_rate": 0.88,
+    "cohens_kappa": 0.3094
+  },
+  "sentiment_distribution": {
+    "manual_annotations": {
+      "neutral": 116,
+      "positive": 74,
+      "negative": 10
+    },
+    "model_predictions": {
+      "positive": 103,
+      "neutral": 73,
+      "negative": 24
+    }
+  },
+  "learning_journey_distribution": {
+    "manual_annotations": {
+      "no": 187,
+      "yes": 13
+    },
+    "model_predictions": {
+      "false": 175,
+      "true": 25
+    }
+  },
+  "detailed_sentiment_metrics": {
+    "positive": {
+      "precision": 0.6990291262135923,
+      "recall": 0.972972972972973,
+      "f1_score": 0.8135593220338984,
+      "support": 74.0
+    },
+    "neutral": {
+      "precision": 0.958904109589041,
+      "recall": 0.603448275862069,
+      "f1_score": 0.7407407407407407,
+      "support": 116.0
+    },
+    "negative": {
+      "precision": 0.25,
+      "recall": 0.6,
+      "f1_score": 0.35294117647058826,
+      "support": 10.0
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "positive",
+      "neutral",
+      "negative"
+    ],
+    "matrix": [
+      [
+        72,
+        2,
+        0
+      ],
+      [
+        28,
+        70,
+        18
+      ],
+      [
+        3,
+        1,
+        6
+      ]
+    ]
+  },
+  "model_confidence_stats": {
+    "mean": 0.7779,
+    "std": 0.1386,
+    "min": 0.4229,
+    "max": 0.9611
+  },
+  "progression_type_distribution": {
+    "single_sentence": 122,
+    "stable": 36,
+    "simple_transition": 27,
+    "complex_progression": 10,
+    "learning_journey": 5
+  },
+  "disagreement_analysis": {
+    "total_disagreements": 52,
+    "disagreement_rate": 26.0,
+    "disagreement_patterns": {
+      

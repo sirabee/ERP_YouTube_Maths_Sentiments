@@ -1,0 +1,54 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths revision"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:04
+Query: maths revision
+Safe Query Name: maths_revision
+Clustering Method: K-means with K=9 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 360
+- Optimal K Value: 9
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 9 (K-means K=9)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 360 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 72 comments): bhaiya, question, exam, maths, hu, mai, revision, answer
+  2. Topic  1 ( 48 comments): maths, math, topper, 100, maths topper, subject, higher, fear
+  3. Topic  2 ( 44 comments): video, thank, helpful, thanks, great, explanation, help, amazing
+  4. Topic  3 ( 43 comments): exam, watching, day, study, left, start, revision, test
+  5. Topic  4 ( 38 comments): videos, thanks, channel, video, thank, helped, gcse, exam
+  6. Topic  5 ( 36 comments): grade, gcse, got, ll, ll grade, time, gcse maths, foundation
+  7. Topic  6 ( 34 comments): math, sats, did, question, just, 2024, paper, maths
+  8. Topic  7 ( 29 comments): circle, angle, pythagoras, theorem, thank, degrees, theorems, circle theorems
+  9. Topic  8 ( 16 comments): practice, perfect, practice makes, makes, makes man, man, man perfect, perfect practice
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=9, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=9
+This configuration uses query-specific K=9 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_revision/
+- Data: data/data_with_topics_maths_revision.csv
+- Topic Info: data/topic_info_maths_revision.csv
+- Visualizations: visualizations/*_maths_revision.*
+
+This analysis provides optimized topic discovery for the search query "maths revision" 
+using K-means clustering with K=9 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

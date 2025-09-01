@@ -1,0 +1,56 @@
+
+=== VARIABLE K-MEANS SENTENCE-LEVEL SENTIMENT ANALYSIS REPORT ===
+Analysis completed: 2025-08-01 08:40:54
+Algorithm: Variable K-means clustering with BERTopic
+Method: Per-sentence sentiment analysis with progression detection
+Dataset: YouTube Mathematical Education Comments
+
+=== SUMMARY STATISTICS ===
+Variable K-means Topics Analyzed: 12
+Search Queries Covered: 80
+Total comments analyzed: 35,438
+Comments with sentiment transitions: 9,069 (25.59%)
+Learning journeys detected: 1,445 (4.08%)
+
+=== SENTENCE-LEVEL SENTIMENT DISTRIBUTION ===
+POSITIVE: 19,333 (54.55%)
+NEUTRAL: 11,964 (33.76%)
+NEGATIVE: 4,141 (11.69%)
+
+=== SENTIMENT PROGRESSION PATTERNS ===
+single_sentence: 19,787 (55.84%)
+stable: 6,582 (18.57%)
+simple_transition: 4,905 (13.84%)
+complex_progression: 2,719 (7.67%)
+learning_journey: 1,445 (4.08%)
+
+=== LEARNING JOURNEY EXAMPLES ===
+
+Example 1:
+Regressive 'girl trends' portraying women as dumb.... some of worked so hard break that stereotype....
+
+Example 2:
+I'm a woman and I hate both "I'm just a girl" and "girl math" because it makes look awful. I've accidentally hit my neighbor's mailbox while backing out of my driveway, and I nearly had a panic attack. mailbox was completely fine with no scratches or even being moved, but I most CERTAINLY did not ju...
+
+Example 3:
+This needs be renamed, "Stupid girl math." Because this girl 🙋🏾♀️ saves her money....
+
+=== VARIABLE K-MEANS EDUCATIONAL INSIGHTS ===
+This Variable K-means sentence-level analysis reveals 1445 comments showing
+educational transformation patterns (negative-to-positive progression).
+These represent genuine learning experiences where students express
+initial confusion or difficulty followed by understanding and gratitude.
+
+Variable K-means clustering provides different topic granularity compared to HDBSCAN,
+allowing for comparison of sentiment patterns across clustering approaches.
+
+Average sentences per comment: 2.0
+Comments with multiple sentences: 15,651
+
+=== METHODOLOGY ===
+- Topic Modeling: Variable K-means clustering with BERTopic
+- Sentence segmentation: spaCy English model
+- Sentiment analysis: Twitter RoBERTa (cardiffnlp/twitter-roberta-base-sentiment-latest)
+- Learning journey detection: Negative-to-positive progression patterns
+- Final sentiment weighting: Educational context-aware algorithms
+- Comparative Analysis: Enables comparison with HDBSCAN results

@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'financial maths' ---
+
+Generated on: 2025-07-20 23:04:11
+Total documents analyzed: 258
+Topics discovered: 2
+Noise (unassigned documents): 208 (80.62%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_video_thanks_maths_thank (208 comments)
+  Representative Comments:
+    - I SHALL EXELLE THANKS SIR YOUR TUTORIALS ARE SUPER HELPFUL SO MUCH SO THEY WILL HELP GET A MATH DISTICTION AS I AM WRITING THIS MAY .I SHALL ACE. MY P...
+    - This video has enlightened and given inspiration. Thanks dude. I enjoy your video very much. This channel is my university of knowledge....
+    - Congratz on 15 mil! This video is wonderful. So much interesting and valuable explanation. Now time dig more math behind it :)...
+
+Topic 1: 1_years_formula_question_understand (50 comments)
+  Representative Comments:
+    - Why is it 1.5 years on time line I thought it was 1.6 years Please help understand...
+    - Why is it 1.5 years on time line I thought it was 1.6 years Please help understand...
+    - Why is it 1.5 years on time line I thought it was 1.6 years Please help understand...

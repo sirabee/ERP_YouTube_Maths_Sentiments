@@ -1,0 +1,183 @@
+KEYWORD FREQUENCY ANALYSIS SUMMARY
+Generated: 2025-08-29 21:09
+
+
+TOPIC 0:
+  Queries: 80
+  Documents: 16,691
+  Common Keywords:
+    • math: 4633 occurrences in 60 queries (75%)
+    • thanks: 2377 occurrences in 27 queries (34%)
+    • thank: 2227 occurrences in 32 queries (40%)
+    • maths: 1858 occurrences in 42 queries (52%)
+    • video: 1508 occurrences in 29 queries (36%)
+    • understand: 927 occurrences in 20 queries (25%)
+    • just: 839 occurrences in 23 queries (29%)
+    • great: 602 occurrences in 17 queries (21%)
+    • really: 596 occurrences in 17 queries (21%)
+    • school: 579 occurrences in 17 queries (21%)
+
+TOPIC 1:
+  Queries: 80
+  Documents: 8,346
+  Common Keywords:
+    • math: 1529 occurrences in 34 queries (42%)
+    • thank: 826 occurrences in 27 queries (34%)
+    • maths: 748 occurrences in 21 queries (26%)
+    • video: 723 occurrences in 19 queries (24%)
+    • thanks: 658 occurrences in 20 queries (25%)
+    • answer: 612 occurrences in 17 queries (21%)
+    • great: 391 occurrences in 18 queries (22%)
+    • just: 360 occurrences in 16 queries (20%)
+    • question: 356 occurrences in 12 queries (15%)
+    • videos: 281 occurrences in 11 queries (14%)
+
+TOPIC 2:
+  Queries: 50
+  Documents: 3,372
+  Common Keywords:
+    • thanks: 443 occurrences in 18 queries (36%)
+    • math: 382 occurrences in 11 queries (22%)
+    • exam: 358 occurrences in 7 queries (14%)
+    • thank: 333 occurrences in 18 queries (36%)
+    • video: 270 occurrences in 15 queries (30%)
+    • maths: 209 occurrences in 9 queries (18%)
+    • answer: 154 occurrences in 8 queries (16%)
+    • test: 152 occurrences in 5 queries (10%)
+    • sir: 149 occurrences in 5 queries (10%)
+    • geometry: 129 occurrences in 2 queries (4%)
+
+TOPIC 3:
+  Queries: 41
+  Documents: 2,191
+  Common Keywords:
+    • math: 242 occurrences in 8 queries (20%)
+    • video: 219 occurrences in 11 queries (27%)
+    • thanks: 214 occurrences in 12 queries (29%)
+    • exam: 208 occurrences in 10 queries (24%)
+    • thank: 176 occurrences in 9 queries (22%)
+    • answer: 166 occurrences in 4 queries (10%)
+    • question: 148 occurrences in 6 queries (15%)
+    • great: 85 occurrences in 9 queries (22%)
+    • understand: 78 occurrences in 4 queries (10%)
+    • solution: 75 occurrences in 4 queries (10%)
+
+TOPIC 4:
+  Queries: 34
+  Documents: 1,556
+  Common Keywords:
+    • thanks: 145 occurrences in 9 queries (26%)
+    • math: 132 occurrences in 8 queries (24%)
+    • question: 129 occurrences in 7 queries (21%)
+    • maths: 124 occurrences in 7 queries (21%)
+    • video: 114 occurrences in 7 queries (21%)
+    • great: 96 occurrences in 7 queries (21%)
+    • exam: 91 occurrences in 6 queries (18%)
+    • answer: 90 occurrences in 5 queries (15%)
+    • mathematics: 72 occurrences in 5 queries (15%)
+    • thank: 63 occurrences in 5 queries (15%)
+
+TOPIC 5:
+  Queries: 18
+  Documents: 820
+  Common Keywords:
+    • video: 158 occurrences in 6 queries (33%)
+    • math: 103 occurrences in 5 queries (28%)
+    • videos: 68 occurrences in 3 queries (17%)
+    • number: 57 occurrences in 3 queries (17%)
+    • thanks: 54 occurrences in 3 queries (17%)
+    • thank: 50 occurrences in 2 queries (11%)
+    • maths: 39 occurrences in 3 queries (17%)
+    • answer: 37 occurrences in 3 queries (17%)
+    • great: 36 occurrences in 3 queries (17%)
+    • 11: 29 occurrences in 1 queries (6%)
+
+TOPIC 6:
+  Queries: 18
+  Documents: 733
+  Common Keywords:
+    • thanks: 150 occurrences in 5 queries (28%)
+    • math: 74 occurrences in 5 queries (28%)
+    • thank: 57 occurrences in 4 queries (22%)
+    • maths: 56 occurrences in 3 queries (17%)
+    • theorem: 42 occurrences in 2 queries (11%)
+    • great: 41 occurrences in 4 queries (22%)
+    • men: 36 occurrences in 1 queries (6%)
+    • bio: 33 occurrences in 1 queries (6%)
+    • proof: 32 occurrences in 1 queries (6%)
+    • gödel: 31 occurrences in 1 queries (6%)
+
+TOPIC 7:
+  Queries: 17
+  Documents: 623
+  Common Keywords:
+    • thanks: 123 occurrences in 4 queries (24%)
+    • video: 66 occurrences in 5 queries (29%)
+    • answer: 65 occurrences in 4 queries (24%)
+    • thank: 56 occurrences in 4 queries (24%)
+    • sir: 50 occurrences in 4 queries (24%)
+    • maths: 49 occurrences in 4 queries (24%)
+    • question: 38 occurrences in 4 queries (24%)
+    • test: 28 occurrences in 1 queries (6%)
+    • 16: 23 occurrences in 2 queries (12%)
+    • exam: 22 occurrences in 2 queries (12%)
+
+TOPIC 8:
+  Queries: 14
+  Documents: 414
+  Common Keywords:
+    • answer: 42 occurrences in 2 queries (14%)
+    • 60: 36 occurrences in 2 queries (14%)
+    • thank: 35 occurrences in 3 queries (21%)
+    • thanks: 34 occurrences in 2 queries (14%)
+    • helpful: 33 occurrences in 2 queries (14%)
+    • 12: 30 occurrences in 2 queries (14%)
+    • ml: 27 occurrences in 1 queries (7%)
+    • ai: 26 occurrences in 2 queries (14%)
+    • 21: 24 occurrences in 1 queries (7%)
+    • really: 24 occurrences in 3 queries (21%)
+
+TOPIC 9:
+  Queries: 12
+  Documents: 311
+  Common Keywords:
+    • 100: 55 occurrences in 1 queries (8%)
+    • answer: 42 occurrences in 2 queries (17%)
+    • 20: 40 occurrences in 1 queries (8%)
+    • 55: 30 occurrences in 1 queries (8%)
+    • 26: 29 occurrences in 1 queries (8%)
+    • 19: 29 occurrences in 1 queries (8%)
+    • thank: 27 occurrences in 2 queries (17%)
+    • math: 22 occurrences in 1 queries (8%)
+    • 2b: 21 occurrences in 1 queries (8%)
+    • understand: 20 occurrences in 3 queries (25%)
+
+TOPIC 10:
+  Queries: 8
+  Documents: 197
+  Common Keywords:
+    • algebra: 23 occurrences in 1 queries (12%)
+    • civil: 23 occurrences in 1 queries (12%)
+    • civil engineer: 23 occurrences in 1 queries (12%)
+    • 15: 20 occurrences in 1 queries (12%)
+    • india: 19 occurrences in 1 queries (12%)
+    • duolingo: 19 occurrences in 1 queries (12%)
+    • math: 18 occurrences in 2 queries (25%)
+    • bearings: 18 occurrences in 1 queries (12%)
+    • understand: 18 occurrences in 2 queries (25%)
+    • engineering: 15 occurrences in 1 queries (12%)
+
+TOPIC 11:
+  Queries: 6
+  Documents: 184
+  Common Keywords:
+    • thanks: 95 occurrences in 1 queries (17%)
+    • sir: 82 occurrences in 1 queries (17%)
+    • thanks sir: 75 occurrences in 1 queries (17%)
+    • vectors: 15 occurrences in 1 queries (17%)
+    • algebra: 13 occurrences in 1 queries (17%)
+    • merry: 12 occurrences in 1 queries (17%)
+    • understand: 12 occurrences in 1 queries (17%)
+    • thank: 10 occurrences in 1 queries (17%)
+    • christmas: 9 occurrences in 1 queries (17%)
+    • merry christmas: 8 occurrences in 1 queries (17%)

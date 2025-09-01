@@ -1,0 +1,154 @@
+================================================================================
+KEYWORD CO-OCCURRENCE ANALYSIS - BERTOPIC VARIABLE K
+================================================================================
+
+Analysis Date: 2025-08-16 22:22:11
+Topics Analyzed: 100
+Total Co-occurrence Patterns: 2048
+Total Phrase Patterns: 94
+
+==================================================
+TOP 20 KEYWORD CO-OCCURRENCES (CORPUS-WIDE)
+==================================================
+math + thank: 401 co-occurrences
+just + math: 312 co-occurrences
+thank + video: 303 co-occurrences
+math + teacher: 270 co-occurrences
+thanks + video: 262 co-occurrences
+thank + understand: 220 co-occurrences
+great + video: 220 co-occurrences
+math + school: 217 co-occurrences
+math + video: 186 co-occurrences
+thank + videos: 165 co-occurrences
+math + understand: 163 co-occurrences
+sir + thanks: 163 co-occurrences
+help + thank: 162 co-occurrences
+really + thank: 152 co-occurrences
+mr + thank: 148 co-occurrences
+helpful + thank: 144 co-occurrences
+math + mr: 130 co-occurrences
+data + science: 125 co-occurrences
+data + data science: 125 co-occurrences
+good + math: 124 co-occurrences
+
+==================================================
+TOP 20 PHRASE PATTERNS
+==================================================
+'thank you': 2726 occurrences
+'math teacher': 404 occurrences
+'high school': 330 occurrences
+'data science': 321 occurrences
+'very helpful': 251 occurrences
+'thanks so': 195 occurrences
+'girl math': 176 occurrences
+'so helpful': 156 occurrences
+'applied maths': 143 occurrences
+'linear algebra': 141 occurrences
+'really helpful': 131 occurrences
+'maths teacher': 105 occurrences
+'computer science': 95 occurrences
+'great teacher': 79 occurrences
+'applied math': 66 occurrences
+'basic math': 60 occurrences
+'boy math': 56 occurrences
+'best teacher': 53 occurrences
+'grade 9': 43 occurrences
+'bsc maths': 39 occurrences
+
+==================================================
+NOTABLE SEMANTIC RELATIONSHIPS
+==================================================
+
+Math-related Compound Terms:
+  • 'math teacher': 404
+  • 'girl math': 176
+  • 'applied maths': 143
+  • 'maths teacher': 105
+  • 'applied math': 66
+  • 'basic math': 60
+  • 'boy math': 56
+  • 'bsc maths': 39
+
+Maths-related Compound Terms:
+  • 'applied maths': 143
+  • 'maths teacher': 105
+  • 'bsc maths': 39
+  • 'gcse maths': 27
+
+Teacher-related Compound Terms:
+  • 'math teacher': 404
+  • 'maths teacher': 105
+  • 'great teacher': 79
+  • 'best teacher': 53
+  • 'good teacher': 28
+
+Educational Context Compounds:
+  • 'high school': 330
+  • 'grade 9': 43
+  • 'grade 8': 32
+  • 'middle school': 30
+  • 'grade 11': 28
+
+==================================================
+TOPICS WITH STRONGEST KEYWORD RELATIONSHIPS
+==================================================
+
+decimals_help Topic 1 (445 docs)
+  Co-occurrence strength: 1106
+  Unique keyword pairs: 44
+  Top pairs: math + thank (95) | math + teacher (93) | math + mr (83)
+  Top phrases: math teacher (152) | thank you (133) | best math (39)
+
+math_for_data_science Topic 0 (407 docs)
+  Co-occurrence strength: 794
+  Unique keyword pairs: 45
+  Top pairs: data + science (88) | data + data science (88) | data science + science (87)
+  Top phrases: data science (189) | linear algebra (41) | thank you (38)
+
+mathematics_study Topic 0 (488 docs)
+  Co-occurrence strength: 784
+  Unique keyword pairs: 45
+  Top pairs: math + time (40) | self + study (39) | math + study (38)
+  Top phrases: thank you (26) | high school (23) | linear algebra (13)
+
+decimals_help Topic 0 (669 docs)
+  Co-occurrence strength: 751
+  Unique keyword pairs: 44
+  Top pairs: mr + thanks (49) | mr + thank (46) | test + thank (42)
+  Top phrases: thank you (225) | very helpful (31) | thanks so (30)
+
+girls_and_math Topic 0 (195 docs)
+  Co-occurrence strength: 638
+  Unique keyword pairs: 42
+  Top pairs: girl + math (88) | girl + girl math (82) | girl math + math (81)
+  Top phrases: girl math (173) | boy math (55) | high school (4)
+
+matrices_explained Topic 0 (651 docs)
+  Co-occurrence strength: 601
+  Unique keyword pairs: 45
+  Top pairs: thank + video (41) | great + video (39) | great + thank (38)
+  Top phrases: thank you (172) | thanks so (25) | very helpful (7)
+
+percentages_explained Topic 0 (637 docs)
+  Co-occurrence strength: 586
+  Unique keyword pairs: 45
+  Top pairs: math + thank (34) | thank + understand (34) | thank + videos (31)
+  Top phrases: thank you (191) | math teacher (20) | very helpful (16)
+
+fractions_tutorial Topic 0 (517 docs)
+  Co-occurrence strength: 563
+  Unique keyword pairs: 44
+  Top pairs: math + thank (51) | math + teacher (33) | mr + thank (30)
+  Top phrases: thank you (174) | math teacher (24) | thanks so (12)
+
+physics_mathematics Topic 0 (194 docs)
+  Co-occurrence strength: 508
+  Unique keyword pairs: 45
+  Top pairs: math + physics (76) | harder + physics (35) | mathematics + physics (35)
+  Top phrases: high school (6) | computer science (4) | linear algebra (3)
+
+arithmetic_tutorial Topic 0 (540 docs)
+  Co-occurrence strength: 492
+  Unique keyword pairs: 45
+  Top pairs: math + thank (30) | helpful + thank (28) | thank + video (28)
+  Top phrases: thank you (152) | very helpful (19) | math teacher (18)

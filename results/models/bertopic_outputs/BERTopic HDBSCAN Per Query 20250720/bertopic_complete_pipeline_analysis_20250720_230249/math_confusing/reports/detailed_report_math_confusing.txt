@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'math confusing' ---
+
+Generated on: 2025-07-20 23:04:06
+Total documents analyzed: 318
+Topics discovered: 2
+Noise (unassigned documents): 288 (90.57%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_video_answer_great_solve (288 comments)
+  Representative Comments:
+    - Great video, short, sweet and entertaining :)...
+    - Back in my college, Linear Algebra and matrices never made any sense as we were never taught that way; only proofs and theorem but no visualization. A...
+    - I have been trying solve schrodinger equation numericaly for some time but had never gotten into it enough. This video made it for and Im now trying o...
+
+Topic 1: 1_answer_infinity_number_solution (30 comments)
+  Representative Comments:
+    - an algebraic solution is not fully correct here (since f(x) is infinite set of operations it breaks algebra), though it gets you correct answer, but a...
+    - proper way present this problem is as a sequence a_n defined by: a_n = √(3a_(n-1)) , where a_0 is an arbitrarily chosen positive real number. This vid...
+    - I am not great at mathematics, but it seems be an infinite geometric sequence converging on 1, as its a real number that gets progressive smaller more...

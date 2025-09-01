@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'women in maths' ---
+
+Generated on: 2025-07-20 23:04:30
+Total documents analyzed: 48
+Topics discovered: 2
+Noise (unassigned documents): 3 (6.25%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_brilliant_great_future_questions (25 comments)
+  Representative Comments:
+    - Wow, she's real definition of brilliant 👏...
+    - God protect you have a great future ahead...
+    - I can’t even read question she already answered. Impressive. She will have a great future....
+
+Topic 1: 1_mathematics_answer_love_question (20 comments)
+  Representative Comments:
+    - 85 question kandethiya method onude refer cheyamo...answer sariyannu pakshe 16 erattiyo,4 erattiyo agne ethelum aavunnu enkil ee method use aakan patt...
+    - Bro in our India every class has this kind of student who can answer question within seconds 😅...
+    - She knows mathematics ❎🤡 She is Mathematics ✅🗿🗿🗿🔥🔥...

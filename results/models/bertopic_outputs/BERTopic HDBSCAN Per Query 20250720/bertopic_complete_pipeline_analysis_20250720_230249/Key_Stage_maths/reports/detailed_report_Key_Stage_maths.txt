@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'Key Stage maths' ---
+
+Generated on: 2025-07-20 23:04:16
+Total documents analyzed: 227
+Topics discovered: 2
+Noise (unassigned documents): 2 (0.88%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_thank_thanks_video_maths (175 comments)
+  Representative Comments:
+    - My Reading was very easy thanks your tactics, I fought Reading was going be hard but your advice helped a lot, maths is my favourite subject and you'l...
+    - Thanks you lot i got gds! Thank you sooo muchhh😊...
+    - Lets give thanks for Dylan for working so hard on these videos, we dont thank him enough...
+
+Topic 1: 1_question_maths_exam_ee (50 comments)
+  Representative Comments:
+    - Kuthirayude question itta aale vadi vech thallanam...
+    - Maam direction question answer?? Ee question exam hallil irunn cheith thala peruthu...
+    - Enik maths 3 question cheyanne samayam kittiyollu.😢😢😢😭...

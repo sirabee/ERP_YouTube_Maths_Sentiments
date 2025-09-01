@@ -1,0 +1,62 @@
+================================================================================
+KEYWORD FREQUENCY ANALYSIS - BERTOPIC VARIABLE K
+================================================================================
+
+Analysis Date: 2025-08-16 22:07:51
+Total Topics Analyzed: 378
+Total Documents: 33,948
+
+========================================
+KEYWORD STATISTICS
+========================================
+Average keywords per topic: 10.0
+Average keyword frequency: 18.4
+Total keyword occurrences: 69,500
+
+========================================
+TOP 20 MOST FREQUENT KEYWORDS (CORPUS-WIDE)
+========================================
+math: 7,146 occurrences
+thanks: 4,306 occurrences
+thank: 3,862 occurrences
+maths: 3,152 occurrences
+video: 3,098 occurrences
+great: 1,385 occurrences
+just: 1,380 occurrences
+understand: 1,380 occurrences
+exam: 1,305 occurrences
+answer: 1,288 occurrences
+question: 1,100 occurrences
+sir: 1,028 occurrences
+videos: 975 occurrences
+really: 894 occurrences
+school: 890 occurrences
+mathematics: 885 occurrences
+teacher: 816 occurrences
+test: 628 occurrences
+helpful: 618 occurrences
+help: 554 occurrences
+
+========================================
+TOPICS WITH HIGHEST KEYWORD CONCENTRATION
+========================================
+math_classroom Topic 2: 11.7 keywords/document
+  Dominant: thanks, lot...
+math_confusing Topic 6: 10.7 keywords/document
+  Dominant: men, days, feet, 100...
+maths_lesson Topic 3: 10.0 keywords/document
+  Dominant: double, math, joptionpane, scanner...
+math_discoveries Topic 1: 9.9 keywords/document
+  Dominant: door, monty, hall, problem...
+why_learn_maths Topic 1: 9.5 keywords/document
+  Dominant: length, line, tube, london, lines...
+year_11_maths Topic 11: 8.3 keywords/document
+  Dominant: thanks sir, thanks, sir...
+maths_job Topic 1: 7.9 keywords/document
+  Dominant: answer, right answer, right, 27, answer 27...
+maths_boring Topic 9: 7.1 keywords/document
+  Dominant: 100, 55, 26, 19...
+geometry_help Topic 3: 6.2 keywords/document
+  Dominant: 360, angle, bpc, 20...
+maths_revision Topic 8: 5.6 keywords/document
+  Dominant: practice, perfect, practice makes, makes, man, man...

@@ -1,0 +1,48 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths anxiety"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:17
+Query: maths anxiety
+Safe Query Name: maths_anxiety
+Clustering Method: K-means with K=3 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 241
+- Optimal K Value: 3
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 3 (K-means K=3)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 241 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (106 comments): math, just, people, school, teacher, learn, good, think
+  2. Topic  1 ( 84 comments): anxiety, math, math anxiety, just, time, school, maths, got
+  3. Topic  2 ( 51 comments): math, thank, great, test, video, videos, thanks, sharing
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=3, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=3
+This configuration uses query-specific K=3 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_anxiety/
+- Data: data/data_with_topics_maths_anxiety.csv
+- Topic Info: data/topic_info_maths_anxiety.csv
+- Visualizations: visualizations/*_maths_anxiety.*
+
+This analysis provides optimized topic discovery for the search query "maths anxiety" 
+using K-means clustering with K=3 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

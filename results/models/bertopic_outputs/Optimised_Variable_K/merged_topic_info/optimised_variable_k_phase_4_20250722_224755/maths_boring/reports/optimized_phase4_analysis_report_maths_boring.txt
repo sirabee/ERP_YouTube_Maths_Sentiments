@@ -1,0 +1,57 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths boring"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:41
+Query: maths boring
+Safe Query Name: maths_boring
+Clustering Method: K-means with K=12 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 580
+- Optimal K Value: 12
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 12 (K-means K=12)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 580 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 97 comments): thank, understand, square, grade, area, im, long, math
+  2. Topic  1 ( 81 comments): maths, math, subject, algebra, digit, number, think, tricks
+  3. Topic  2 ( 60 comments): maths, marks, got, weak, practice, physics, good, jee
+  4. Topic  3 ( 57 comments): school, elon, learn, education, learning, teach, college, things
+  5. Topic  4 ( 53 comments): hu, mai, maths, math, liye, aur, mujhe, question
+  6. Topic  5 ( 46 comments): linear algebra, youtube, algebra, linear, video, oxford, watching, good
+  7. Topic  6 ( 46 comments): bio, biology, neet, maths, difficult, easy, tough, level
+  8. Topic  7 ( 40 comments): thanks, video, tomorrow, sir, recommendation, edit, likes, tomorrow maths
+  9. Topic  8 ( 37 comments): ml, ai, job, data, learn, data science, course, web
+ 10. Topic  9 ( 31 comments): 100, 55, 26, 19, 2b, 21, 26 19, 4c
+ 11. Topic 10 ( 24 comments): duolingo, ll, 2022, duolingo 2022, divide, duolingo math, math, fractions
+ 12. Topic 11 (  8 comments): vedic, vedic mathematics, mathematics, copy, approach, try, right, maths
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=12, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=12
+This configuration uses query-specific K=12 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_boring/
+- Data: data/data_with_topics_maths_boring.csv
+- Topic Info: data/topic_info_maths_boring.csv
+- Visualizations: visualizations/*_maths_boring.*
+
+This analysis provides optimized topic discovery for the search query "maths boring" 
+using K-means clustering with K=12 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

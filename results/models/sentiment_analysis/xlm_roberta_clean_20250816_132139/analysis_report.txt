@@ -1,0 +1,35 @@
+
+=== CLEAN ENHANCED XLM-RoBERTa SENTIMENT ANALYSIS REPORT ===
+Generated: 2025-08-16 13:57:08
+Model: XLM-RoBERTa (AmaanP314/youtube-xlm-roberta-base-sentiment-multilingual)
+
+=== SUMMARY ===
+Total comments: 35,438
+Total sentences: 69,190
+Learning journeys: 5,620 (15.9%)
+Average sentences/comment: 1.95
+
+=== SENTIMENT DISTRIBUTION ===
+POSITIVE: 20,530 (57.9%)
+NEUTRAL: 11,236 (31.7%)
+NEGATIVE: 3,672 (10.4%)
+
+=== PROGRESSION TYPES ===
+single_sentence: 19,787 (55.8%)
+stable: 6,713 (18.9%)
+simple_transition: 5,323 (15.0%)
+complex_progression: 2,447 (6.9%)
+learning_journey: 1,168 (3.3%)
+
+=== METHODOLOGY ===
+1. SpaCy sentence segmentation (regex fallback)
+2. XLM-RoBERTa sentiment classification
+3. Contradiction-aware learning journey detection
+4. Simple majority voting aggregation
+5. 0.7 confidence for learning journeys (validated approach)
+
+=== ENHANCEMENTS ===
+- Contradiction marker detection for learning patterns
+- Five-type progression classification
+- Clean, maintainable code structure
+- Comprehensive visualizations

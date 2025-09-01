@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'year 10 math' ---
+
+Generated on: 2025-07-20 23:03:42
+Total documents analyzed: 524
+Topics discovered: 2
+Noise (unassigned documents): 495 (94.47%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_thanks_maths_video (495 comments)
+  Representative Comments:
+    - Didn’t pay attention in high school now I find myself at 24 studying all math be a carpenter hopefully even calculus thanks Mr J great math teacher...
+    - I’m in 8th grade and I’m taking math 2 thanks so much lol I haven’t been paying enough attention this year but this is helping before my exams tomorow...
+    - I had a math project about this and this really helped so thanks Mr. J...
+
+Topic 1: 1_20_easy_correct_question (29 comments)
+  Representative Comments:
+    - Very easy question...20/20🎉...
+    - 20/20 in this maths quiz...
+    - Very easy for - 20/20 🎉...

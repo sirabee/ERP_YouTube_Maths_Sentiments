@@ -1,0 +1,53 @@
+HIERARCHICAL TOPIC ANALYSIS SUMMARY
+Date: 2025-08-17 13:06
+
+
+TOPIC 0:
+  Queries: 80
+  Documents: 16,045
+  Common Keywords:
+    • math: 60 queries (75%)
+    • maths: 42 queries (52%)
+    • thank: 32 queries (40%)
+    • video: 29 queries (36%)
+    • thanks: 27 queries (34%)
+
+TOPIC 1:
+  Queries: 80
+  Documents: 8,053
+  Common Keywords:
+    • math: 34 queries (42%)
+    • thank: 27 queries (34%)
+    • maths: 21 queries (26%)
+    • thanks: 20 queries (25%)
+    • video: 19 queries (24%)
+
+TOPIC 2:
+  Queries: 50
+  Documents: 3,165
+  Common Keywords:
+    • thank: 18 queries (36%)
+    • thanks: 18 queries (36%)
+    • video: 15 queries (30%)
+    • math: 11 queries (22%)
+    • videos: 10 queries (20%)
+
+TOPIC 3:
+  Queries: 41
+  Documents: 2,130
+  Common Keywords:
+    • thanks: 12 queries (29%)
+    • video: 11 queries (27%)
+    • exam: 10 queries (24%)
+    • thank: 9 queries (22%)
+    • great: 9 queries (22%)
+
+TOPIC 4:
+  Queries: 34
+  Documents: 1,535
+  Common Keywords:
+    • thanks: 9 queries (26%)
+    • math: 8 queries (24%)
+    • video: 7 queries (21%)
+    • great: 7 queries (21%)
+    • question: 7 queries (21%)

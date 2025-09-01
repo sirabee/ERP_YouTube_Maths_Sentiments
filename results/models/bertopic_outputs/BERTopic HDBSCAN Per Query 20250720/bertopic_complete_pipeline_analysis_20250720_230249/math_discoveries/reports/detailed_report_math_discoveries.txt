@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'math discoveries' ---
+
+Generated on: 2025-07-20 23:03:58
+Total documents analyzed: 375
+Topics discovered: 2
+Noise (unassigned documents): 336 (89.60%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_video_great_thanks (336 comments)
+  Representative Comments:
+    - "Heeheehee those apes will never find Invents math "Oh f*ck."...
+    - This is why math is one of my favorite subjects...
+    - A great video once again, i love this type of content that goes in depth about how idea was shaped considering that most of time we get short version ...
+
+Topic 1: 1_host_prize_problem_chance (39 comments)
+  Representative Comments:
+    - What helps with Monty Hall problem is that while your choice is random, Monty's in NOT random. When you pick, you have a 1 in 3 chance of picking priz...
+    - a crucial piece of information was left out of 3-door problem. It is only true IF HOST OF GAME SHOW KNOWS BEHIND WHICH DOOR TOP PRIZE IS (as other com...
+    - Instead of three, imagine there 10 doors. You pick one first, chance of picking right is 1/10. door is not revealed yet as that could end show.) chanc...

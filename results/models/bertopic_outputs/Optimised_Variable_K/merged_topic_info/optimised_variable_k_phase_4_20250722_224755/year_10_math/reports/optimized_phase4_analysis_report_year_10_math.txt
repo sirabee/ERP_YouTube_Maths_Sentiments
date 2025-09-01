@@ -1,0 +1,55 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "year 10 math"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:47
+Query: year 10 math
+Safe Query Name: year_10_math
+Clustering Method: K-means with K=10 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 524
+- Optimal K Value: 10
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 10 (K-means K=10)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 524 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 91 comments): math, thank, formula, grade, helped, 12, maths, 1000
+  2. Topic  1 ( 82 comments): videos, video, thank, grade, math, amazing, watching, understand
+  3. Topic  2 ( 58 comments): math, ramanujan, maths, teacher, math teacher, mathematician, people, better
+  4. Topic  3 ( 54 comments): paper, grade, grade 10, 10, tomorrow, exam, writing, help
+  5. Topic  4 ( 51 comments): exam, best exam, exam life, got, board, practice, ncert, 95
+  6. Topic  5 ( 50 comments): exam, day, test, tmr, day exam, tomorrow, pass, minutes
+  7. Topic  6 ( 42 comments): understand, simple, don, don understand, didn, thank, thanks, understand thank
+  8. Topic  7 ( 36 comments): thanks, sir thanks, thanks sir, mam, thanks mam, sir, thanks thanks, mam thanks
+  9. Topic  8 ( 31 comments): thanks, helpful, helpful thanks, kevin, thanks mr, mr, thank, help
+ 10. Topic  9 ( 29 comments): 20, 20 20, quiz, 20 thanks, easy, correct, 15, question
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=10, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=10
+This configuration uses query-specific K=10 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_year_10_math/
+- Data: data/data_with_topics_year_10_math.csv
+- Topic Info: data/topic_info_year_10_math.csv
+- Visualizations: visualizations/*_year_10_math.*
+
+This analysis provides optimized topic discovery for the search query "year 10 math" 
+using K-means clustering with K=10 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

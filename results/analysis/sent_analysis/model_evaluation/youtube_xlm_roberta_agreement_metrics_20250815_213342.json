@@ -1,0 +1,21 @@
+{
+  "total_samples": 200,
+  "timestamp": "20250815_213342",
+  "model_name": "youtube_xlm_roberta",
+  "model_alignment": {
+    "sentiment_match_rate": 0.71,
+    "sentiment_matches": 142
+  },
+  "sentiment_distribution": {
+    "consensus": {
+      "neutral": 116,
+      "positive": 74,
+      "negative": 10
+    },
+    "model": {
+      "positive": 103,
+      "neutral": 73,
+      "negative": 24
+    }
+  }
+}

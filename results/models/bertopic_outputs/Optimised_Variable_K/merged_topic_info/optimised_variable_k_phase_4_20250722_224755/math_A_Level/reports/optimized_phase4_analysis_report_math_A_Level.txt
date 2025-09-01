@@ -1,0 +1,57 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "math A Level"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:56
+Query: math A Level
+Safe Query Name: math_A_Level
+Clustering Method: K-means with K=12 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 445
+- Optimal K Value: 12
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 12 (K-means K=12)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 445 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 58 comments): video, math, ve, maths, watching, seen, way, amazing
+  2. Topic  1 ( 48 comments): math, grade, abacus, mai, interesting, multiplication, thank, best
+  3. Topic  2 ( 42 comments): exam, paper, level, maths, pure, papers, school, year
+  4. Topic  3 ( 40 comments): question, olympiad, easy, olympiad question, math olympiad, grade, paper, imo
+  5. Topic  4 ( 38 comments): calculus, rule, power rule, power, 2x, dx, 12x, 4x
+  6. Topic  5 ( 36 comments): thanks, thanks sir, great, sir, helpful, lot, video, explanation
+  7. Topic  6 ( 35 comments): physics, university, degree, physicist, math, self, mathematics, need
+  8. Topic  7 ( 35 comments): chemistry, biology, bio, chem, bio chem, maths, biology chemistry, psychology
+  9. Topic  8 ( 32 comments): 60, 21, 19, 20, number, answer, 3x, 60 3x
+ 10. Topic  9 ( 29 comments): average, asian, asians, math, average math, bro, good math, proved
+ 11. Topic 10 ( 27 comments): civil, engineering, engineer, civil engineering, civil engineer, important, study, physics
+ 12. Topic 11 ( 25 comments): algebra, button, formula, decimal, taught, late, calculator, just
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=12, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=12
+This configuration uses query-specific K=12 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_math_A_Level/
+- Data: data/data_with_topics_math_A_Level.csv
+- Topic Info: data/topic_info_math_A_Level.csv
+- Visualizations: visualizations/*_math_A_Level.*
+
+This analysis provides optimized topic discovery for the search query "math A Level" 
+using K-means clustering with K=12 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

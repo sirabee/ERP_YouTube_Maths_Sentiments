@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'discalculia' ---
+
+Generated on: 2025-07-20 23:04:19
+Total documents analyzed: 180
+Topics discovered: 2
+Noise (unassigned documents): 49 (27.22%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_just_numbers_maths (66 comments)
+  Representative Comments:
+    - I know geography, biology, space science and other things very well and I'm well educated and incredibly knowledgeable in these fields but entire math...
+    - I answered yes 9 out of 11 questions. I’m 47 and I’ve been completely paralyzed by math my entire life. I quit jobs or didn’t take jobs in high school...
+    - I tried khan academy but im stuck on even grade 2 level. I just get so confused with everything. I cant visualize numbers, i cant figure out any math ...
+
+Topic 1: 1_math_dyscalculia_dyslexia_know (65 comments)
+  Representative Comments:
+    - I have struggled with math as a child, and still struggle with math today as an adult. I can't add or subtract without using my fingers, I don't know ...
+    - I have dyscalculia and dyslexia. My parents got Hooked on Phonics back in early 90's and it helped with my reading, but they didn't know root problem ...
+    - It isn’t just math dyslexia. As a person with both having problems counting number and reading are not same. For personally I have a hard time solivin...

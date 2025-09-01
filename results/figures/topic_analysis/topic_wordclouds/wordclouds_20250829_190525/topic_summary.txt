@@ -1,0 +1,59 @@
+BERTopic Variable K - Topic Word Cloud Summary
+==================================================
+Generated: 2025-08-29 19:05:33
+Total topics processed: 12
+
+AGGREGATE WORD CLOUD STATISTICS
+-----------------------------------
+Total word occurrences: 19,504
+Unique words: 815
+Average topics per word: 2.0
+Topics analyzed: 12
+
+Topic 1:
+  Words: 295
+  Top words: math, thank, thanks, maths, video, answer, great, question, just, mathematics
+
+Topic 2:
+  Words: 214
+  Top words: thank, video, thanks, math, maths, answer, exam, great, videos, helpful
+
+Topic 0:
+  Words: 213
+  Top words: math, maths, thank, thanks, video, just, great, school, understand, question
+
+Topic 3:
+  Words: 208
+  Top words: video, exam, thanks, math, great, thank, question, sir, answer, understand
+
+Topic 4:
+  Words: 190
+  Top words: thanks, maths, math, great, question, video, exam, answer, thank, mathematics
+
+Topic 5:
+  Words: 121
+  Top words: video, math, videos, number, great, answer, thanks, calculus, maths, ai
+
+Topic 6:
+  Words: 117
+  Top words: math, thanks, thank, great, maths, teacher, sir, theorem, helpful, useful
+
+Topic 7:
+  Words: 94
+  Top words: thanks, answer, video, sir, maths, thank, question, mam, tomorrow, amazing
+
+Topic 8:
+  Words: 86
+  Top words: answer, thank, helpful, thanks, really, easy, data, ai, use, teacher
+
+Topic 9:
+  Words: 79
+  Top words: maths, easy, thank, answer, question, test, correct, understand, geometry, maturity
+
+Topic 10:
+  Words: 62
+  Top words: understand, math, india, civil, song, bearings, duolingo, inkscape, quadratic, al
+
+Topic 11:
+  Words: 47
+  Top words: merry, algebra, ramanujan, vectors, vedic, thanks, christmas, button, believe, understand

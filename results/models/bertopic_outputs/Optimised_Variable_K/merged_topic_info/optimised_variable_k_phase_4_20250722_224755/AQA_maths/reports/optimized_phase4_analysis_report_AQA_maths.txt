@@ -1,0 +1,49 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "AQA maths"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:16
+Query: AQA maths
+Safe Query Name: AQA_maths
+Clustering Method: K-means with K=4 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 242
+- Optimal K Value: 4
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 4 (K-means K=4)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 242 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (117 comments): math, maths, question, exam, calculus, got, algebra, just
+  2. Topic  1 ( 55 comments): explanation, clear, understand, easy, clear explanation, thanks, thank, easy understand
+  3. Topic  2 ( 41 comments): helpful, thank, really, thanks, really helpful, video, helpful thank, videos
+  4. Topic  3 ( 29 comments): algorithm, node, dijkstra, video, dijkstra algorithm, shortest, table, thanks
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=4, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=4
+This configuration uses query-specific K=4 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_AQA_maths/
+- Data: data/data_with_topics_AQA_maths.csv
+- Topic Info: data/topic_info_AQA_maths.csv
+- Visualizations: visualizations/*_AQA_maths.*
+
+This analysis provides optimized topic discovery for the search query "AQA maths" 
+using K-means clustering with K=4 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

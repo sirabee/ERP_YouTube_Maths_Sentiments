@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "everyday math"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:26
+Query: everyday math
+Safe Query Name: everyday_math
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 130
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 130 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 51 comments): math, day, problem, problems, just, hours, doing, algebra
+  2. Topic  1 ( 25 comments): need, maths, math, make, help, algebra, bro, written
+  3. Topic  2 ( 20 comments): math, people, mathematics, sorcerer, math sorcerer, math useful, determine, thats
+  4. Topic  3 ( 19 comments): thanks, used, tv, great, video, school, dum, needed
+  5. Topic  4 ( 15 comments): duolingo, duolingo math, android, math, music, course, french, english
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_everyday_math/
+- Data: data/data_with_topics_everyday_math.csv
+- Topic Info: data/topic_info_everyday_math.csv
+- Visualizations: visualizations/*_everyday_math.*
+
+This analysis provides optimized topic discovery for the search query "everyday math" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "university maths"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:44
+Query: university maths
+Safe Query Name: university_maths
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 573
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 573 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (173 comments): math, maths, good, school, just, mathematics, bad, think
+  2. Topic  1 (139 comments): video, math, thanks, books, great, maths, thank, physics
+  3. Topic  2 (106 comments): questions, test, question, oxford, exam, don, easy, think
+  4. Topic  3 ( 83 comments): 16, 100, 10, answer, question, 300, digits, 999
+  5. Topic  4 ( 72 comments): mathematics, computing, maths, iit, bhaiya, college, phd, mnc
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_university_maths/
+- Data: data/data_with_topics_university_maths.csv
+- Topic Info: data/topic_info_university_maths.csv
+- Visualizations: visualizations/*_university_maths.*
+
+This analysis provides optimized topic discovery for the search query "university maths" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

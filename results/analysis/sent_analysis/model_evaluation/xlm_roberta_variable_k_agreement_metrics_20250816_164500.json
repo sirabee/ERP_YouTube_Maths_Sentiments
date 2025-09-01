@@ -1,0 +1,178 @@
+{
+  "total_samples": 200,
+  "timestamp": "20250816_164500",
+  "model_name": "xlm_roberta_variable_k",
+  "model_details": {
+    "model_path": "AmaanP314/youtube-xlm-roberta-base-sentiment-multilingual",
+    "aggregation_method": "final_third_weighting_with_learning_journey_detection",
+    "features": [
+      "spacy_sentence_segmentation",
+      "learning_journey_detection",
+      "final_third_weighting",
+      "negative_to_positive_progression"
+    ]
+  },
+  "sentiment_agreement": {
+    "accuracy": 0.745,
+    "matches": 149,
+    "match_rate": 0.745,
+    "cohens_kappa": 0.5683,
+    "macro_f1": 0.6395,
+    "weighted_f1": 0.7538
+  },
+  "learning_journey_agreement": {
+    "accuracy": 0.775,
+    "matches": 155,
+    "match_rate": 0.775,
+    "cohens_kappa": 0.0916
+  },
+  "sentiment_distribution": {
+    "manual_annotations": {
+      "neutral": 116,
+      "positive": 74,
+      "negative": 10
+    },
+    "model_predictions": {
+      "positive": 102,
+      "neutral": 74,
+      "negative": 24
+    }
+  },
+  "learning_journey_distribution": {
+    "manual_annotations": {
+      "no": 187,
+      "yes": 13
+    },
+    "model_predictions": {
+      "false": 158,
+      "true": 42
+    }
+  },
+  "detailed_sentiment_metrics": {
+    "positive": {
+      "precision": 0.7058823529411765,
+      "recall": 0.972972972972973,
+      "f1_score": 0.8181818181818182,
+      "support": 74.0
+    },
+    "neutral": {
+      "precision": 0.9594594594594594,
+      "recall": 0.6120689655172413,
+      "f1_score": 0.7473684210526316,
+      "support": 116.0
+    },
+    "negative": {
+      "precision": 0.25,
+      "recall": 0.6,
+      "f1_score": 0.35294117647058826,
+      "support": 10.0
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "positive",
+      "neutral",
+      "negative"
+    ],
+    "matrix": [
+      [
+        72,
+        2,
+        0
+      ],
+      [
+        27,
+        71,
+        18
+      ],
+      [
+        3,
+        1,
+        6
+      ]
+    ]
+  },
+  "model_confidence_stats": {
+    "mean": 0.9184,
+    "std": 0.1715,
+    "min": 0.4,
+    "max": 1.0
+  },
+  "progression_type_distribution": {
+    "single_sentence": 122,
+    "stable": 36,
+    "simple_transition": 26,
+    "complex_progression": 11,
+    "learning_journey": 5
+  },
+  "disagreement_analysis": {
+    "total_disagreements": 51,
+    "disagreement_rate": 25.5,
+    "disagreement_patterns": {
+      "negative_to_neutral": 1,
+      "negative_to_positive": 3,
+      "neutral_to_negative": 18,
+      "neutral_to_positive": 27,
+      "positive_to_neutral": 2
+    },
+    "disagreement_examples": {
+      "negative_to_neutral": {
+        "count": 1,
+        "percentage": 0.5,
+        "examples": [
+          "As a mathematician I can confirm that this is how women and men do math"
+        ]
+      },
+      "negative_to_positive": {
+        "count": 3,
+        "percentage": 1.5,
+        "examples": [
+          "Thank you I had trouble with girl math nice know somebody who actually knows this topic and actively explains it with high details",
+          "As a representative of BMA (Boy math association) I can confirm this man is a graduate of our campaign and speaking gas.",
+          "This is boy math at peak performance 💀"
+        ]
+      },
+      "neutral_to_negative": {
+        "count": 18,
+        "percentage": 9.0,
+        "examples": [
+          "question is wrong. There are two angle BPC.",
+          "Seriously 😑 Chote mote apps banane use maths 😂 \"It is easier teach coding a mathematician rather than a person who is already coding\" \"Coding is just mathematics\" Sunder pichai",
+          "It's golden ratio. That said, knowing golden ratio and afferent properties (x=1+1/x) is more a matter of general math culture, and olympiads are for teenagers. some of them will know and some won't at all, this is NOT spirit of olympiads. Those problems should be based on problem-solving ability, not on random general culture."
+        ]
+      },
+      "neutral_to_positive": {
+        "count": 27,
+        "percentage": 13.5,
+        "examples": [
+          "My school had those timed math tests too. But instead of stickers, anyone who finished with all right answers in one minute either got eat outside for lunch or got extra recess time. I don't think I finished on time once. This isolated from friends and showed that I wasn't smart. I struggled in other areas too. I literally couldn't read until my mom single handedly taught in 3rd grade (now reading is a favorite hobby). I have AHDH, dyslexia, and math dyslexia (I have no clue how spell technical name), but none of those were caught or even considered until adulthood when I put in effort find answers. So I spent my entire early years thinking I was stupid, even though I was actually a smart kid. I completed first draft of a whole novel at age 14 and played multiple instruments (making top in my state on one) in high school. I was smart. But they didn't see that. When I got older, I actually understood algebra better than my peers. Everyone complained about letters, but for whatever reason it clicked in my brain a lot of time. I still struggled, but I was one of 5 kids in my entire school get top scores on state test. Geometry was hell. I didn't understand at all and barely made it by. Even in algebra, where my math skills shined, I couldn't do anything in my head. I had write down every single step, even ones that most of my peers could do in their heads. I got comments about how much paper I wasted because kids are cruel. It's taken years, and I'm still trying unlearn all of that negative stuff. My teachers told over and over that I wouldn't have a calculator with everyday. I understand it was a different time, but they were also super wrong. So who cares if I can't do math mentally. Or when I can it's in some weird way that everyone says is stupid and more complicated than how they were taught? As long as I have right answer (or close enough not hurt anyone) then who cares how I got there?",
+          "I actually calculated this question because I studied this question in my bank preparation exam and same type question in jee preparation",
+          "I'd say what separates a great programmer from an average one is always be willing learn what you need in order succeed. Creativity and resourcefulness are two greatest qualities in programming."
+        ]
+      },
+      "positive_to_neutral": {
+        "count": 2,
+        "percentage": 1.0,
+        "examples": [
+          "Bro believe i got 99%ile in maths by watching shorts.",
+          "Imagine having mr J as ur math teacher when ur building up ur math basics in high school 🥹..."
+        ]
+      }
+    }
+  },
+  "performance_summary": {
+    "primary_metric": "sentiment_accuracy",
+    "primary_score": 0.745,
+    "benchmark_comparison": {
+      "twitter_roberta_accuracy": 0.37,
+      "improvement_over_twitter_roberta": 0.375
+    }
+  },
+  "methodology_notes": {
+    "matching_method": "exact_text_matching",
+    "preprocessing": "whitespace_normalization_and_lowercase",
+    "evaluation_date": "2025-08-16",
+    "code_version": "youtube_bert_sentence_analysis",
+    "aggregation_confidence": 0.9
+  }
+}

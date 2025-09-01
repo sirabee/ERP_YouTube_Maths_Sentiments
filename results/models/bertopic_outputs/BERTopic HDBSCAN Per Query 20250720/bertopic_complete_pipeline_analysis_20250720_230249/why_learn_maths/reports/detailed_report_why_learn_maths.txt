@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'why learn maths' ---
+
+Generated on: 2025-07-20 23:03:48
+Total documents analyzed: 473
+Topics discovered: 2
+Noise (unassigned documents): 457 (96.62%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_just_time_video (457 comments)
+  Representative Comments:
+    - Maths and phyics are same for when math applied our phyicsal world it conerts into phyics...
+    - Math is so hard...
+    - From where study math?...
+
+Topic 1: 1_line_lines_total_10 (16 comments)
+  Representative Comments:
+    - For tunnel problem solving I will check radius of London. I will calculate length of a line using assumption that it crosses whole city usually lines ...
+    - Finding length of London Tube system involves measuring total length of all individual subway lines. London Underground consists of several lines, eac...
+    - For tube problem, i took a fairly simple approach. I once took track from Heathrow downtown which took around 1 hour (on average it seems airports tak...

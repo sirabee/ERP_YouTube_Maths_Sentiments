@@ -1,0 +1,49 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "diversity mathematics"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:49:31
+Query: diversity mathematics
+Safe Query Name: diversity_mathematics
+Clustering Method: K-means with K=4 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 76
+- Optimal K Value: 4
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 4 (K-means K=4)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 76 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 ( 24 comments): models, task, great, digit, addition, amazing, mean, later
+  2. Topic  1 ( 21 comments): mathematics, line, 10, math, point, equation line, feel, equation
+  3. Topic  2 ( 17 comments): mod, valid, remainder, congruent, congruence, travel, answer, 12
+  4. Topic  3 ( 14 comments): 25, answer, 25 right, right answer, right, answer 25, 49 50, 49
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=4, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=4
+This configuration uses query-specific K=4 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_diversity_mathematics/
+- Data: data/data_with_topics_diversity_mathematics.csv
+- Topic Info: data/topic_info_diversity_mathematics.csv
+- Visualizations: visualizations/*_diversity_mathematics.*
+
+This analysis provides optimized topic discovery for the search query "diversity mathematics" 
+using K-means clustering with K=4 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

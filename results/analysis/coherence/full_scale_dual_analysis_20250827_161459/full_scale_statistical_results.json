@@ -1,0 +1,79 @@
+{
+  "algorithm_comparison_coherence_c_v": {
+    "test": "Mann-Whitney U",
+    "u_statistic": 2723.0,
+    "p_value": 0.1042618138555368,
+    "hdbscan_mean": 0.5177403631507341,
+    "hdbscan_std": 0.17404518068828312,
+    "hdbscan_n": 81,
+    "variable_k_mean": 0.5557305712656451,
+    "variable_k_std": 0.14039741024308033,
+    "variable_k_n": 79,
+    "cohens_d": 0.24026358611324736,
+    "effect_size_interpretation": "Small",
+    "interpretation": "No significant difference"
+  },
+  "algorithm_comparison_coherence_u_mass": {
+    "test": "Mann-Whitney U",
+    "u_statistic": 1501.0,
+    "p_value": 0.026076001829478265,
+    "hdbscan_mean": -9.71159305467435,
+    "hdbscan_std": 5.0270384987590955,
+    "hdbscan_n": 61,
+    "variable_k_mean": -7.497494929912717,
+    "variable_k_std": 3.8202373954909397,
+    "variable_k_n": 64,
+    "cohens_d": 0.49592292075637023,
+    "effect_size_interpretation": "Small",
+    "interpretation": "Significant difference"
+  },
+  "algorithm_comparison": {
+    "test": "Mann-Whitney U",
+    "u_statistic": 2723.0,
+    "p_value": 0.1042618138555368,
+    "hdbscan_mean": 0.5177403631507341,
+    "hdbscan_std": 0.17404518068828312,
+    "hdbscan_n": 81,
+    "variable_k_mean": 0.5557305712656451,
+    "variable_k_std": 0.14039741024308033,
+    "variable_k_n": 79,
+    "cohens_d": 0.24026358611324736,
+    "effect_size_interpretation": "Small",
+    "interpretation": "No significant difference"
+  },
+  "domain_comparison": {
+    "test": "Kruskal-Wallis",
+    "statistic": 14.04386854388322,
+    "p_value": 0.17100001637974954,
+    "domains_tested": [
+      "Applied",
+      "General",
+      "Academic_Level",
+      "Geometry",
+      "Algebra",
+      "Teaching",
+      "Emotional",
+      "Advanced",
+      "Calculus",
+      "Arithmetic",
+      "Statistics"
+    ],
+    "interpretation": "No significant differences"
+  },
+  "query_type_comparison": {
+    "test": "Kruskal-Wallis",
+    "statistic": 6.084962466790462,
+    "p_value": 0.529864545652646,
+    "types_tested": [
+      "Practical_Application",
+      "Academic_Assessment",
+      "General_Discussion",
+      "Educational_Content",
+      "Social_Aspects",
+      "Difficulty_Perception",
+      "Emotional_Perception",
+      "Teaching_Method"
+    ],
+    "interpretation": "No significant differences"
+  }
+}

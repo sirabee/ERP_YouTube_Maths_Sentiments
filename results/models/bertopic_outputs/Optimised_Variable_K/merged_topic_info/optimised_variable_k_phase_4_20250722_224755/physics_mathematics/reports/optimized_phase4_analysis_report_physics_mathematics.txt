@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "physics mathematics"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:49
+Query: physics mathematics
+Safe Query Name: physics_mathematics
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 503
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 503 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (194 comments): physics, math, mathematics, harder, just, think, don, problem
+  2. Topic  1 (119 comments): video, math, derivative, just, great, second, thanks, thank
+  3. Topic  2 ( 70 comments): sir, video, brilliant, thanks, thank, amazing, great, helpful
+  4. Topic  3 ( 67 comments): question, mam, sir, basic, exam, 12, solution, class
+  5. Topic  4 ( 53 comments): book, books, engineering, great, text, physics, methods, review
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_physics_mathematics/
+- Data: data/data_with_topics_physics_mathematics.csv
+- Topic Info: data/topic_info_physics_mathematics.csv
+- Visualizations: visualizations/*_physics_mathematics.*
+
+This analysis provides optimized topic discovery for the search query "physics mathematics" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

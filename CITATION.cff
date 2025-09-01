@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "YouTube Mathematics Sentiment Analysis"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "x"
+    given-names: "x"
+    affiliation: "The University of Manchester"
+repository-code: "https://github.com/sirabee/ERP_YouTube_Maths_Sentiments"
+abstract: >-
+  Analysis of mathematics education content on YouTube using
+  BERTopic for topic modeling and BERT-based sentiment analysis.
+  Includes data collection, processing, and analysis pipelines
+  for understanding user engagement with mathematical content.
+keywords:
+  - youtube
+  - mathematics education
+  - sentiment analysis
+  - topic modeling
+  - BERTopic
+  - BERT
+  - NLP
+license: MIT
+version: "1.0.0"
+date-released: 2025-01-01

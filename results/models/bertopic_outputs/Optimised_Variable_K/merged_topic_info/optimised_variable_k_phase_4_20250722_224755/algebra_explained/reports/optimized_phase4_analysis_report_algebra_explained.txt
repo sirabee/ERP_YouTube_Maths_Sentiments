@@ -1,0 +1,57 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "algebra explained"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:14
+Query: algebra explained
+Safe Query Name: algebra_explained
+Clustering Method: K-means with K=12 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 965
+- Optimal K Value: 12
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 12 (K-means K=12)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 965 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (129 comments): math, algebra, school, base, teacher, math teacher, high school, high
+  2. Topic  1 (115 comments): equation, algebra, step, thank, solve, understand, equations, answer
+  3. Topic  2 (115 comments): theory, mathematics, alice, logic, math, said, mathematical, abstract
+  4. Topic  3 (102 comments): understand, thanks, thank, explanation, understand thank, teacher, topic, clear
+  5. Topic  4 (100 comments): linear, linear algebra, matrix, algebra, matrices, video, just, numbers
+  6. Topic  5 ( 96 comments): video, videos, math, help, great, singing, thanks, thank
+  7. Topic  6 ( 79 comments): thanks, great, amazing, thank, helpful, great video, video, ur
+  8. Topic  7 ( 72 comments): test, exam, tomorrow, today, eoc, regents, final, thank
+  9. Topic  8 ( 63 comments): easy, school, grade, teacher, teach, 5th, im, learning
+ 10. Topic  9 ( 45 comments): answer, 16, question, example, answer answer, correct, answer question, number
+ 11. Topic 10 ( 35 comments): india, al, knowledge, al khwarizmi, khwarizmi, indian, baghdad, algebra
+ 12. Topic 11 ( 14 comments): merry, christmas, merry christmas, equation, theorem, happy, mathematical, lectures
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=12, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=12
+This configuration uses query-specific K=12 based on statistical validation:
+- Significantly outperformed baseline K=5
+- >5% improvement threshold met
+- Optimized for this specific educational content
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_algebra_explained/
+- Data: data/data_with_topics_algebra_explained.csv
+- Topic Info: data/topic_info_algebra_explained.csv
+- Visualizations: visualizations/*_algebra_explained.*
+
+This analysis provides optimized topic discovery for the search query "algebra explained" 
+using K-means clustering with K=12 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

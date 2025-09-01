@@ -1,0 +1,50 @@
+
+Optimized Phase 4 BERTopic Analysis Report - Query: "maths useful"
+================================================================================
+
+ANALYSIS SUMMARY
+Generated: 2025-07-22 22:48:35
+Query: maths useful
+Safe Query Name: maths_useful
+Clustering Method: K-means with K=5 (Optimized via Refined Variable K Strategy)
+
+DATASET STATISTICS
+- Total Comments Analyzed: 634
+- Optimal K Value: 5
+- K Selection Method: Refined Variable K Strategy with 5% improvement threshold
+
+TOPIC MODELING RESULTS
+- Topics Discovered: 5 (K-means K=5)
+- Noise Comments: 0 (0.0%)
+- Successfully Clustered: 634 (100.0%)
+
+TOP TOPICS DISCOVERED
+
+  1. Topic  0 (172 comments): math, maths, need, good, learn, data, use, just
+  2. Topic  1 (162 comments): thanks, video, great, thank, luke, great video, amazing, helpful
+  3. Topic  2 (150 comments): thank, video, math, maths, exam, just, thanks, ve
+  4. Topic  3 ( 79 comments): physics, taylor, series, taylor series, math, apples, consciousness, great
+  5. Topic  4 ( 71 comments): question, answer, 65, sir, exam, cm, diya, diameter
+
+TECHNICAL CONFIGURATION
+- Embedding Model: all-MiniLM-L6-v2
+- Clustering Algorithm: K-means (n_clusters=5, random_state=42)
+- UMAP Components: 5
+- Vectorizer: CountVectorizer (1-2 grams, English stop words)
+- Optimization: Refined Variable K Strategy with statistical validation
+
+RATIONALE FOR K=5
+This configuration uses the baseline K=5 as determined by Phase 3 analysis:
+- Global optimal K value across all queries
+- Query-specific optimization showed <5% improvement
+- Statistical validation confirmed baseline is optimal
+
+OUTPUT FILES
+- Model: models/optimized_phase4_model_maths_useful/
+- Data: data/data_with_topics_maths_useful.csv
+- Topic Info: data/topic_info_maths_useful.csv
+- Visualizations: visualizations/*_maths_useful.*
+
+This analysis provides optimized topic discovery for the search query "maths useful" 
+using K-means clustering with K=5 selected via the Refined Variable K Strategy
+for statistically validated optimal performance in mathematical education analysis.

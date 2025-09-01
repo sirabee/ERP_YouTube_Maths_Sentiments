@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'probability help' ---
+
+Generated on: 2025-07-20 23:03:49
+Total documents analyzed: 462
+Topics discovered: 2
+Noise (unassigned documents): 415 (89.83%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_probability_math_video_thanks (415 comments)
+  Representative Comments:
+    - Well that was a great Video! Big thanks...
+    - Just a former maths teacher talking into internet void about probability: it makes sense that dart has a probability of 0 of hitting a specific point ...
+    - probability of a dart landing on spot X is 0. 0 probability for all spots means a 0 probability dart landing on board at all." And then dart lands on ...
+
+Topic 1: 1_exam_sir_maths_question (47 comments)
+  Representative Comments:
+    - Voli exam x yrr🤣...
+    - 33.48 dekhi herda huncha exam cha vane❤...
+    - Voli exam 🤧...

@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'mathematics tutorial' ---
+
+Generated on: 2025-07-20 23:04:05
+Total documents analyzed: 334
+Topics discovered: 2
+Noise (unassigned documents): 9 (2.69%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_just_solution_school_understand (226 comments)
+  Representative Comments:
+    - I love implication that they don't know for sure how useful this would be, if at all, but they just ran with it anyway...
+    - I am 27 years old. Almost 28 and I graduated High School 9 years ago. I was very bad at math, probably because I was never interested in it. Today 09/...
+    - Just solve it by writing No Solution...
+
+Topic 1: 1_thanks_amazing_great_thank (99 comments)
+  Representative Comments:
+    - I am glad I woke up this morning - this amazingness was well, amazing!!! Thank you for showing...
+    - Thanks for this great tutorial....
+    - Amazing! Thanks for keeping updated...

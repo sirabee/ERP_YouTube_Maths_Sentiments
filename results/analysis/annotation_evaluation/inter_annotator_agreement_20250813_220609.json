@@ -1,0 +1,80 @@
+{
+  "timestamp": "20250813_220609",
+  "total_annotations": 200,
+  "metrics": {
+    "sentiment": {
+      "annotation_type": "Sentiment",
+      "kappa": 0.5344024831867563,
+      "interpretation": "Moderate",
+      "agreement_percentage": 73.0,
+      "agreement_count": 146,
+      "total_count": 200,
+      "confusion_matrix": [
+        [
+          0,
+          28,
+          3
+        ],
+        [
+          0,
+          82,
+          1
+        ],
+        [
+          0,
+          22,
+          64
+        ]
+      ],
+      "labels": [
+        "negative",
+        "neutral",
+        "positive"
+      ]
+    },
+    "learning_journey": {
+      "annotation_type": "Learning Journey",
+      "kappa": 0.4128553770086526,
+      "interpretation": "Moderate",
+      "agreement_percentage": 90.5,
+      "agreement_count": 181,
+      "total_count": 200,
+      "confusion_matrix": [
+        [
+          173,
+          16
+        ],
+        [
+          3,
+          8
+        ]
+      ],
+      "labels": [
+        "no",
+        "yes"
+      ]
+    },
+    "has_transition": {
+      "annotation_type": "Has Transition",
+      "kappa": 0.452054794520548,
+      "interpretation": "Moderate",
+      "agreement_percentage": 91.0,
+      "agreement_count": 182,
+      "total_count": 200,
+      "confusion_matrix": [
+        [
+          173,
+          12
+        ],
+        [
+          6,
+          9
+        ]
+      ],
+      "labels": [
+        "no",
+        "yes"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+--- Detailed Analysis Report for Query: 'maths hate' ---
+
+Generated on: 2025-07-20 23:04:12
+Total documents analyzed: 250
+Topics discovered: 2
+Noise (unassigned documents): 228 (91.20%)
+
+--- Top Topics Summary ---
+
+Topic 0: 0_math_maths_mathematics_school (228 comments)
+  Representative Comments:
+    - Yeah I love maths from start because math is language of universe :)...
+    - As a kid it took a long time accept that I wasn't bad at math. I was bad at hand writing (I'm dysgraphic) then as I got older and I made accommodation...
+    - I understand your conceptualization and I agree an extent. But I disagree. I love math and your correct math is crucial and eventually one should lear...
+
+Topic 1: 1_maths_guys_japanese_solutions (22 comments)
+  Representative Comments:
+    - IIT level maths polum free aytu available anu you tubil. Maths maatram alla physics and Chemistry also. Upayoga peduthunna kuttikal athu vechu padichu...
+    - Who are they geniune students who take subscription of japanese Tabhi sochu hindi maths padne wala japanese piche pada (high level crack this statemen...
+    - Bye guys, maths padhne jaa raha hu 👋🏼...
