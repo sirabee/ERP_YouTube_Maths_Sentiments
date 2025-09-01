@@ -205,14 +205,14 @@ python src/analysis/engagement_sentiment_video_analysis.py
 
 ### Expected Metrics
 
-| Metric                    | Expected Value |
-| ------------------------- | -------------- |
-| Videos Retained           | ~96.7%         |
-| Comments Retained         | ~44.2%         |
-| BERTopic Noise (Variable K) | ~8.72%      |
-| Sentiment Accuracy (XLM-RoBERTa) | ~74%  |
-| Learning Journey Detection | ~88%          |
-| Processing Time           | 4-7 hours      |
+| Metric                           | Expected Value |
+| -------------------------------- | -------------- |
+| Videos Retained                  | ~96.7%         |
+| Comments Retained                | ~44.2%         |
+| BERTopic Noise (Variable K)      | ~8.72%         |
+| Sentiment Accuracy (XLM-RoBERTa) | ~74%           |
+| Learning Journey Detection       | ~88%           |
+| Processing Time                  | 4-7 hours      |
 
 ### Key Performance Indicators
 
@@ -238,6 +238,7 @@ The repository includes anonymized processed datasets for reproducibility:
 - `data/processed/videos_gradual_complete_filtered_20250720_223652.csv`
 
 These files contain:
+
 - Anonymized user IDs (hashed)
 - Filtered educational content
 - Pre-processed text ready for analysis
@@ -264,6 +265,7 @@ These files contain:
    ```
 
 4. **Path Errors**
+
    - Ensure running from repository root
    - Check file paths match your system
    - Note: Scripts use absolute paths specific to development environment
@@ -290,7 +292,7 @@ Estimated time for full pipeline reproduction:
 If using this code or methodology, please cite:
 
 ```
-Author (2025). Perceptions of Mathematics on YouTube: 
-BERT-based Topic Modelling and Sentiment Analysis. 
+14151162 (2025). Perceptions of Mathematics on YouTube:
+BERT-based Topic Modelling and Sentiment Analysis.
 MSc Thesis, University of Manchester.
 ```
