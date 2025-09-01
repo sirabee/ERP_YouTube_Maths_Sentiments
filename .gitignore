@@ -105,3 +105,4 @@ logs/
 *.old
 tmp/
 temp/
+CLAUDE.md
