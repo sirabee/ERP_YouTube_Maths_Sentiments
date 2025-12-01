@@ -3,8 +3,8 @@ title: "YouTube Mathematics Sentiment Analysis"
 message: "If you use this software, please cite it as below."
 type: software
 authors:
-  - family-names: "x"
-    given-names: "x"
+  - family-names: "Bihi"
+    given-names: "Sirad"
     affiliation: "The University of Manchester"
 repository-code: "https://github.com/sirabee/ERP_YouTube_Maths_Sentiments"
 abstract: >-

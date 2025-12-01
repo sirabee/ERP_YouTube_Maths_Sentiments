@@ -115,6 +115,6 @@ These datasets have been fully anonymized with all user identifiers removed or h
 
 For data access requests:
 
-- Author: 14151162
+- Author: Sirad Bihi
 - Institution: The University of Manchester
 - Purpose: MSc Data Science Thesis

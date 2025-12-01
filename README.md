@@ -2,7 +2,7 @@
 
 ## MSc Data Science Thesis Project
 
-**Author**: 14151162  
+**Author**: Sirad Bihi
 **Institution**: The University of Manchester  
 **Thesis Title**: Perceptions of Mathematics on YouTube: BERT-based Topic Modelling and Sentiment Analysis  
 **Year**: 2025
@@ -156,18 +156,21 @@ In compliance with ethical research standards and GDPR:
 ### Performance Metrics
 
 #### Topic Modeling
+
 - **Per-Query BERTopic**: 8.72% weighted average noise (83% improvement over baseline)
 - **Variable K-Means**: 0.425 mean silhouette score (best of 81 algorithms tested)
 - **Topics Generated**: 12 distinct topics across 378 query-topic combinations
 - **Query Coverage**: 82/82 queries successfully modeled
 
 #### Sentiment Analysis
+
 - **XLM-RoBERTa Enhanced**: 74% accuracy (YouTube-trained)
 - **YouTube-BERT**: 73% accuracy
 - **Twitter-RoBERTa**: 37% accuracy (demonstrates domain training importance)
 - **Learning Journey Detection**: 88% accuracy with XLM-RoBERTa
 
 #### Data Retention
+
 - **Video Filtering**: 3,897 videos retained (96.7% retention rate)
 - **Comment Filtering**: 34,057 comments retained (44.2% retention rate)
 
@@ -181,7 +184,7 @@ In compliance with ethical research standards and GDPR:
 
 ## Key Scripts Reference
 
-### Core Commands (from CLAUDE.md)
+### Core Commands
 
 ```bash
 # BERTopic models (per-query approach)
@@ -223,9 +226,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If using this code or methodology, please cite:
 
 ```
-Author (2025). Perceptions of Mathematics on YouTube: 
-BERT-based Topic Modelling and Sentiment Analysis. 
-MSc Thesis, University of Manchester.
+Sirad Bihi (2025). Perceptions of Mathematics on YouTube:
+BERT-based Topic Modelling and Sentiment Analysis.
+MSc Thesis, The University of Manchester.
 ```
 
 ## Acknowledgments

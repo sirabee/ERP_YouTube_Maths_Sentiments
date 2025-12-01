@@ -292,7 +292,7 @@ Estimated time for full pipeline reproduction:
 If using this code or methodology, please cite:
 
 ```
-14151162 (2025). Perceptions of Mathematics on YouTube:
+Sirad Bihi (2025). Perceptions of Mathematics on YouTube:
 BERT-based Topic Modelling and Sentiment Analysis.
-MSc Thesis, University of Manchester.
+MSc Thesis, The University of Manchester.
 ```
